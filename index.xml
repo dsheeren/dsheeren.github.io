@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Sheeren on David Sheeren</title>
+    <link>https://dsheeren.github.io/</link>
+    <description>Recent content in David Sheeren on David Sheeren</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DYNAFOR has 15 years old!</title>
+      <link>https://dsheeren.github.io/post/dynaforbirthday/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://dsheeren.github.io/post/dynaforbirthday/</guid>
+      <description>
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34;  href=&#34;https://dsheeren.github.io/img/posts/dynafor_15ans_1.jpg&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://dsheeren.github.io/img/posts/dynafor_15ans_1.jpg&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;We spent a nice meeting last tuesday with all members of DYNAFOR to celebrate the fifteenth anniversary of the laboratory. G. Balent, the lab&amp;rsquo;s founder (recently retired!), started the meeting with a presentation about the genesis of the group and the research questions associated at startup in 2003. M. Deconchat, our last director, made a quick review of our activities conducted for 15 years. We finished the morning meeting by a SWOT analysis (Strengths, Weaknesses, Opportunities and Threats) to prepare the next years. After lunch, an &amp;ldquo;agri-escape ecolo-game&amp;rdquo; was organized at the &lt;a href=&#34;https://www.facebook.com/lafermedumatet&#34; target=&#34;_blank&#34;&gt;Ferme du Matet&lt;/a&gt; by Lucie and Virgine (two past PhD students). Finally, the day ended at the village of St André with our local partners and farmers around our exhibition and drinks!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Back from ForestSAT&#39;2018, Univ. of Maryland, USA</title>
+      <link>https://dsheeren.github.io/post/forestsat2018/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://dsheeren.github.io/post/forestsat2018/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://forestsat2018.forestsat.com/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://forestsat2018.forestsat.com/wp-content/uploads/2018/03/logo-color-ctr-650b.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://forestsat2018.forestsat.com/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;ForestSAT&amp;rsquo;2018 Conference&lt;/strong&gt;&lt;/a&gt; was organized by the University of Maryland and the NASA Goddar Space Flight Center at USA, Washington D.C. during 5 days (1-5 October 2018). Many of us from DYNAFOR, CESBIO and ONERA Toulouse were there. The program of the conference was really exciting with talks on all the subjects: large area mapping, forest structure and biomass, forest biodiversity assessment, forest composition and phenology, change detection and disturbances, forest in the global carbon cycle&amp;hellip; with optical time series, LiDAR, UAV, SAR data. It provided us a good overview of the current research works on this topic. It was also the opportunity to meet other scientists and present our lastest works.&lt;/p&gt;
+
+&lt;p&gt;Oral presentation:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Karasiak N., &lt;strong&gt;Sheeren&lt;/strong&gt; D., Dejoux J.F., Féret J.B., Willm J., Monteil C., Is ground-based phenology of deciduous tree species consistent with the temporal pattern observed from Sentinel-2 time series?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Posters:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Herrault P.-A., Thierion V. and &lt;strong&gt;Sheeren&lt;/strong&gt; D., Using the new French Land Cover Map (OSO) as spatial inputs in forest ecological modeling.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheeren&lt;/strong&gt; D., Thierion V. and Herrault P.-A., Quality assessment of MODIS Vegetation Continuous Fields of Tree Cover over France.&lt;/li&gt;
+&lt;li&gt;Aval J., Fabre S., Zenou E., &lt;strong&gt;Sheeren&lt;/strong&gt; D., Fauvel M. and Briottet X., An ensemble classifier approach for urban tree species classification from ground-based spectral references.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Detection of individual trees in urban alignment from airborne data and contextual information: a marked point process approach</title>
+      <link>https://dsheeren.github.io/publication/aval_isprsj_2018/</link>
+      <pubDate>Fri, 14 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/aval_isprsj_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New published paper in Remote Sensing Journal</title>
+      <link>https://dsheeren.github.io/post/paperrs2018/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://dsheeren.github.io/post/paperrs2018/</guid>
+      <description>&lt;p&gt;This paper named &lt;strong&gt;Spatial and Temporal Dependency of NDVI Satellite Imagery in Predicting Bird Diversity over France&lt;/strong&gt; (see &lt;a href=&#34;http://www.mdpi.com/2072-4292/10/7/1136&#34; target=&#34;_blank&#34;&gt;publication&lt;/a&gt;) intended to confirm the conclusions we obtained in a &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1470160X14000818?via%3Dihub&#34; target=&#34;_blank&#34;&gt;previous study&lt;/a&gt; made in southwestern France. Here, we used a large bird dataset collected at the French national scale to (i) compare single date NDVI data and DHI (i.e. the Dynamic Habitat Index) to explain and predict species richness patterns of different bird groups; (ii) identify the best NDVI acquisition date to explain and predict bird species richness; and (iii) test whether the best NDVI acquisition date depends on the dominant land cover in landscapes.&lt;/p&gt;
+
+&lt;p&gt;We observed that continuous (unclassified) predictors derived from satellite imagery contribute to build efficient Species Distribution Models (SDM) at large spatial scale. However, because of temporal variability of remotely sensed predictors over the year, acquisition time periods of the data affect the models’ performance. We found that:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Compared to a combination of multiple NDVI time periods or to the components of DHI, performance of bird models is higher with single time period of NDVI variables.&lt;/li&gt;
+&lt;li&gt;Models’ performance is time and context-dependent. At the French scale, end summer (NDVI 14-Sep) and begin of autumn (NDVI 30-Sep) are in most cases, the best time periods to explain and predict woodland and farmland birds species richness.&lt;/li&gt;
+&lt;li&gt;Best time period of NDVI is the one that better reflect dominant habitats in the bird survey plots.&lt;/li&gt;
+&lt;li&gt;Habitat components at finer scale have to be combined with climate variables at macro scale to explain and predict patterns of habitat specialist species.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These findings suggest that the most powerful approach is the simplest one. Only one image of appropriate time period is required for mapping bird species richness. This makes the use of unclassified remotely sensed data very operational for bird monitoring programs.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.mdpi.com/2072-4292/10/7/1136&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://res.mdpi.com/def5020035eabd603ef29ea6366e32135bd59807fa334a9299c18427598207369505029f840fcf0bdc235a41f05982e60768c48811f655564d76aa2139bb4313e7544ab37ee561595fc712bdcc496aee21974e90b748f4115b4c406526f061032b9de04b59f9603a4dd2f4b819a7c858a36f71ba41b6b65a3ab57d674de5e5fc9c4848478c2aee78fabfe3a369ade8552f5b56720ea78ae77f085c5b922f6d6ed9d6ba9230a06e183937696d2d0ff64ed3e860&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatial and Temporal Dependency of NDVI Satellite Imagery in Predicting Bird Diversity over France</title>
+      <link>https://dsheeren.github.io/publication/bonthoux_rs_2018/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/bonthoux_rs_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of spatial and temporal discontinuities of forest habitats on the current presence of flightless saproxylic beetles</title>
+      <link>https://dsheeren.github.io/publication/cateau_plos_2018/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/cateau_plos_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research activities</title>
+      <link>https://dsheeren.github.io/research/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://dsheeren.github.io/research/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://dsheeren.github.io/img/bandeau_fabas.png&#34; alt=&#34;Fabas&#34; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;scientific-responsabilities&#34;&gt;Scientific responsabilities&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Since 2017: team leader of the RAMSSES group (geo / remote sensing) at &lt;a href=&#34;https://www.dynafor.fr/&#34; target=&#34;_blank&#34;&gt;DYNAFOR&lt;/a&gt; Lab.&lt;/li&gt;
+&lt;li&gt;Since 2013: scientific advisory board member of the HYPXIM hyperspectral EO mission (&lt;a href=&#34;https://cnes.fr/&#34; target=&#34;_blank&#34;&gt;CNES&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Since 2012: co-leader of the &amp;ldquo;Image analysis for landscape monitoring&amp;rdquo; WG (&lt;a href=&#34;http://gdr-magis.imag.fr/&#34; target=&#34;_blank&#34;&gt;GdR CNRS MAGIS&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Since 2012: board member of the &lt;a href=&#34;http://gdr-magis.imag.fr/&#34; target=&#34;_blank&#34;&gt;GdR CNRS MAGIS&lt;/a&gt; network&lt;/li&gt;
+&lt;li&gt;Since 2009: board member of the &lt;a href=&#34;https://maps.hypotheses.org/&#34; target=&#34;_blank&#34;&gt;MAPS&lt;/a&gt; network (RNSC)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;editorial-board&#34;&gt;Editorial board&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;International Journal of Agricultural and Environmental Information Systems (IJAEIS)&lt;/li&gt;
+&lt;li&gt;Revue Internationale de Géomatique (Hermès-Lavoisier).&lt;/li&gt;
+&lt;li&gt;Revue Française de Photogrammétrie et Télédétection (SFPT).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;reviewer&#34;&gt;Reviewer&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Remote Sensing (MDPI)&lt;/li&gt;
+&lt;li&gt;Remote Sensing of Environment (Elsevier)&lt;/li&gt;
+&lt;li&gt;Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE)&lt;/li&gt;
+&lt;li&gt;ISPRS International Journal of Geo-Information (MDPI)&lt;/li&gt;
+&lt;li&gt;International Journal of Geographical Information Science (Taylor &amp;amp; Francis)&lt;/li&gt;
+&lt;li&gt;International Journal of Remote Sensing (Taylor &amp;amp; Francis)&lt;/li&gt;
+&lt;li&gt;GIS &amp;amp; Remote Sensing (Taylor &amp;amp; Francis)&lt;/li&gt;
+&lt;li&gt;Photogrammetric Engineering &amp;amp; Remote Sensing (ASPRS)&lt;/li&gt;
+&lt;li&gt;Ecological Indicators (Elsevier)&lt;/li&gt;
+&lt;li&gt;Regional Environmental Change (Springer)&lt;/li&gt;
+&lt;li&gt;Journal of Arid Environments (Elsevier)&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Cybergeo - European Journal of Geography (OpenEdition)&lt;/p&gt;
+
+&lt;p&gt;See my &lt;a href=&#34;https://publons.com/author/1070686/david-sheeren#profile&#34; target=&#34;_blank&#34;&gt;publons profile&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;program-committees-conference-reviewer&#34;&gt;Program committees / conference reviewer&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;International&lt;/strong&gt;: GEOBIA&amp;rsquo;2018, GAMOLCS&amp;rsquo;2017, EFITA&amp;rsquo;2017, Agri-EnvBigDA Workshop 2017, SBIA&amp;rsquo;2004, ECAI&amp;rsquo;2004.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;National&lt;/strong&gt;: SFPT-GH&amp;rsquo;2018, SAGEO (each year since 2010), REP 2017, MAPS-2 Conference 2010, EGC&amp;rsquo;2006.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;external-expertise&#34;&gt;External expertise&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Advisory board&lt;/strong&gt;: Project &amp;ldquo;EO Regions Science&amp;rdquo; (research program for earth observation, Stereo III, BELSPO) 2017.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project funding&lt;/strong&gt;: ANR Agrobiosphere program 2012 (French National Research Agency), AAP Chercheurs d&amp;rsquo;avenir 2011 (Région Languedoc-Roussillon), AAP Équipement mi-lourd 2012 (ISC-PIF), CIGA-Czech University of Life Sciences 2015, IDEX Unistra 2016, Région Aquitaine 2017, Région Aquitaine 2018.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Doctoral funding&lt;/strong&gt;: ANRT 2017, Région Champagne-Ardenne 2014, OHM/CNRS 2013.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;scientific-projects&#34;&gt;Scientific projects&lt;/h1&gt;
+
+&lt;h3 id=&#34;current-projects&#34;&gt;Current projects&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;2018-2020: &lt;strong&gt;TOSCA Parcelle&lt;/strong&gt; (CNES funding) &amp;ldquo;Large scale mapping from remote sensing imagery&amp;rdquo;. PI: M. Fauvel (UMR CESBIO). Partners: UMR Tetis, LaSTIG-IGN, UMR LETG -Costel, UMR Espace-Dev, UMR LIVE and UMR DYNAFOR.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2018-2020: &lt;strong&gt;PACSE&lt;/strong&gt; (Region Occitanie funding) &amp;ldquo;Landscape and trade-off between ecosystem services&amp;rdquo;. Partners: UMR ECOLAB, UMR DYNAFOR, LEREPS.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2017-2019: &lt;strong&gt;TOSCA HyperBIO&lt;/strong&gt; (CNES funding) &amp;ldquo;HYPXIM sensor specifications to estimate biodiversity variables and classify tree species in forest ecosystems&amp;rdquo;. PI: J.-B. Féret (UMR Tetis). Partners: ONERA/DOTA and UMR DYNAFOR.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;past-projects&#34;&gt;Past projects&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;2015-2018: &lt;strong&gt;TOSCA OSO&lt;/strong&gt; (CNES funding) &amp;ldquo;CES THEIA - Operational land cover mapping&amp;rdquo;. PI: J. Inglada (UMR CESBIO). Partners: IGN, UMR Tetis, UMR DYNAFOR, UMR ISPA, SERTIT.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2015-2017: &lt;strong&gt;IDEX MUESLI&lt;/strong&gt; (University of Toulouse funding) &amp;ldquo;MUltiscale mapping of Ecosystem Services by very high spatial resolution hyperspectral and Lidar Images&amp;rdquo;. PI: M. Fauvel (DYNAFOR). Partners: IRIT Lab., CEFS Lab.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2013-2017: &lt;strong&gt;ASTERIX&lt;/strong&gt; (ANR funding) &amp;ldquo;Spatio-Temporal Analysis by Recognition within Complex Images for Remote Sensing of Environment&amp;rdquo;. PI: S. Lefevre (IRISA). Partners: LETG-COSTEL Lab., DYNAFOR Lab., LIVE Lab., IPGS.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2013-2016: &lt;strong&gt;CASDAR Tel-IAE&lt;/strong&gt; (French Ministry for Agriculture funding) &amp;ldquo;Methods and tools for Agro-Ecological Infrastructures mapping from satellite imagery&amp;rdquo;. PI: C. Sausse (Terres Inovia). Partners: DYNAFOR Lab., CESBIO Lab.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2011-2015: &lt;strong&gt;MODE-RESPYR&lt;/strong&gt; (ANR funding) &amp;ldquo;Modélisation Rétrospective et prospective des changements d&amp;rsquo;occupation des Sols dans les Pyrénées&amp;rdquo;. PI: T. Houet (GEODE Lab.). Partners: CESBIO Lab., DYNAFOR Lab.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2011-2014: &lt;strong&gt;MOUVE&lt;/strong&gt; (ANR funding) &amp;ldquo;Les interactions Elevage et Territoire dans la mise en mouvement de l&amp;rsquo;intensification écologique&amp;rdquo;. PI: B. Dedieu (METAFORT Lab.). Partners: IE, SELMET Lab., LECA Lab., DYNAFOR Lab., ISARA, IRSTEA.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2013-2014: &lt;strong&gt;RTU Pléiades&lt;/strong&gt; (CNES funding) &amp;ldquo;Classification and characterization of mountain grasslands from VHR satellite imagery&amp;rdquo;. PI: D. Sheeren (DYNAFOR Lab.).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2011-2012: &lt;strong&gt;ORFEO/Pléaides&lt;/strong&gt; (CNES funding) &amp;ldquo;Extraction of woody fragments and grass strips in rural landscape&amp;rdquo;. PI: D. Sheeren (DYNAFOR Lab.) et J.-F. Dejoux (CESBIO Lab.).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2010-2011: &lt;strong&gt;MADONNA&lt;/strong&gt; (INP Toulouse &amp;amp; INRA funding) &amp;ldquo;Airborne acqusition of hyperspectral imagery and LiDAR data&amp;rdquo;. PI: D. Sheeren (DYNAFOR Lab.).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2008-2011: &lt;strong&gt;BiodivAgriM&lt;/strong&gt; (ANR funding) &amp;ldquo;Conservation de la biodiversité dans les agro-écosystèmes. Une modélisation spatialement explicite des paysages&amp;rdquo;. PI: V. Bretagnolle (CNRS Chizé).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2008-2011: &lt;strong&gt;PSDR-3 CHAPAY&lt;/strong&gt; (Region funding) &amp;ldquo;Changement d&amp;rsquo;utilisation agricole et forestière des terres et dynamiques des paysages agri-forestiers de Midi-Pyrénées&amp;rdquo;. PI: A. Gibon (UMR DYNAFOR).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2005-2008: &lt;strong&gt;ECOSGIL&lt;/strong&gt; (ANR funding) &amp;ldquo;Extraction des connaissances spatiales pour la gestion intégrée du littoral&amp;rdquo;. PI: A. Puissant (UMR LIVE) et C. Wemmert (UMR ICube).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2006-2007: &lt;strong&gt;PNTS-INSU&lt;/strong&gt; (CNES fundin) &amp;ldquo;Extraction de connaissances spatiales pour l&amp;rsquo;analyse et le suivi des espaces littoraux&amp;rdquo;. PI: A. Puissant (UMR LIVE).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2004-2007: &lt;strong&gt;FoDoMuSt&lt;/strong&gt; (ANR funding) &amp;ldquo;Fouille de données multi-stratégies pour extraire et qualifier la végétation urbaine à partir de bases de données d&amp;rsquo;images&amp;rdquo;. PI: P. Gançarski (UMR ICube).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2000: &lt;strong&gt;BELSPO-TELSAT IV&lt;/strong&gt; &amp;ldquo;Potentialité de la télédétection à très haute résolution dans l&amp;rsquo;élaboration et la tenue à jour de la cartographie digitale à grande échelle&amp;rdquo;. Contrat S.S.T.C T4/12/49 (Politique Scientifique Fédérale de Belgique). PI: J.-P. Donnay, University of Liège, Belgium.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2000 : Groupement Liégeois d&amp;rsquo;Intégrateur Géomatique (GLIG funding) &amp;ldquo;Mise en place d&amp;rsquo;un système de suivi de véhicules d&amp;rsquo;intervention depuis le dispatching 101&amp;rdquo;. PI: J.-P. Donnay, University of Liège, Belgium.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2000 : &lt;strong&gt;UrbIS&lt;/strong&gt; (CIRB funding) &amp;ldquo;Quality assessment of the UrbIS 2 Adm database&amp;rdquo;. PI: J.-P. Donnay, University of Liège, Belgium.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;student-advisees&#34;&gt;Student Advisees&lt;/h1&gt;
+
+&lt;h3 id=&#34;ph-d-dissertation-primary-advisor&#34;&gt;Ph.D. Dissertation (primary advisor)&lt;/h3&gt;
+
+&lt;p&gt;Current:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Y. Hamrouni&lt;/strong&gt; (since 2017), &lt;em&gt;Synergy of optical/radar time series for mapping poplar plantations&lt;/em&gt;, PhD in Env. Sciences (ED SEVAB), University of Toulouse, France.
+
+&lt;ul&gt;
+&lt;li&gt;Co-advisors: C. Monteil &amp;amp; V. Cheret (UMR DYNAFOR), E. Paillassa (IDF).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.karasiak.net/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;N. Karasiak&lt;/strong&gt;&lt;/a&gt; (since 2016), &lt;em&gt;Optical Satellite Image Time Series for tree species classification&lt;/em&gt;, PhD in Env. Sciences (ED SEVAB), University of Toulouse, France.
+
+&lt;ul&gt;
+&lt;li&gt;Co-advisors: C. Monteil (UMR DYNAFOR) &amp;amp; J.-F. Dejoux (UMR CESBIO).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Graduated:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;J. Aval&lt;/strong&gt; (2018), &lt;em&gt;Automatic mapping of urban tree species based on multi-source remotely sensed data&lt;/em&gt;, PhD in Physics (ED AA), University of Toulouse, France.
+
+&lt;ul&gt;
+&lt;li&gt;Co-advisors: X. Briottet &amp;amp; S. Fabre (ONERA), E. Zenou (ISAE), M. Fauvel (DYNAFOR).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://live.unistra.fr/le-laboratoire/annuaire/herrault-pierre-alexis/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;P.-A. Herrault&lt;/strong&gt;&lt;/a&gt; (2015), &lt;em&gt;Effect of forest history on its current biodiversity: a multi-source approach&lt;/em&gt;, PhD in Geography (ED TESC), University of Toulouse, France.
+
+&lt;ul&gt;
+&lt;li&gt;Co-advisor: M. Paegelow (GEODE Lab.).
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;GdR MAGIS national Award 2016 for best Ph.D. Thesis (Geography)&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A. Jacquin&lt;/strong&gt; (2010), &lt;em&gt;Time series analysis for vegetation and fire monitoring in savanna ecosystems of Madagascar&lt;/em&gt;, PhD in Env. Sciences (ED SEVAB), University of Toulouse, France.
+
+&lt;ul&gt;
+&lt;li&gt;Co-advisors: G. Balent &amp;amp; V. Cheret (DYNAFOR)
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;Toulouse INP Award 2010 (L. Escande prize) for best Ph.D. Thesis&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;master-thesis&#34;&gt;Master thesis&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;S. Jourdana&lt;/strong&gt; (2017), &lt;em&gt;Traitement de données LiDAR pour la modélisation d’indicateurs de biodiversité forestière&lt;/em&gt;, Master of Science in Geomatics Engineering (ENSG).
+
+&lt;ul&gt;
+&lt;li&gt;Co-advisors: M. Fauvel (UMR DYNAFOR).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;T. Faijan&lt;/strong&gt; (2017), &lt;em&gt;Reconnaissance d&amp;rsquo;essences forestières par télédétection hyperspectrale&lt;/em&gt;, Master of Science in Spatial Imagery (Université Paul Sabatier Toulouse).
+
+&lt;ul&gt;
+&lt;li&gt;Co-advisors: X. Briottet (ONERA) &amp;amp; M. Fauvel (UMR DYNAFOR).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;O. Tasar&lt;/strong&gt; (2016), &lt;em&gt;Combinaison of segmentations in Remote Sensing&lt;/em&gt;, Master of Science in Computer Engineering (Bilkent University, Turkey).
+
+&lt;ul&gt;
+&lt;li&gt;Co-advisors: S. Lefèvre (IRISA) &amp;amp; P.A. Herrault (UMR CESBIO).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;V. Josipovic&lt;/strong&gt; (2015), &lt;em&gt;Tree species discrimination using Satellite Image Time Series&lt;/em&gt;, Master of Science in Signal &amp;amp; Image Processing (INP-ENSEEIHT).
+
+&lt;ul&gt;
+&lt;li&gt;Co-advisor: M. Fauvel (UMR DYNAFOR).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;M. Lang&lt;/strong&gt; (2015), &lt;em&gt;Classification des types de prairies et estimation de la diversité taxonomique à partir de séries temporelles d&amp;rsquo;images satellites&lt;/em&gt;, Master of Science in AgroGeomatics Engineering (INP-ENSAT).
+
+&lt;ul&gt;
+&lt;li&gt;Co-advisor: M. Fauvel (UMR DYNAFOR).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;S. Lefèvre&lt;/strong&gt; (2014), &lt;em&gt;Évaluation de la diversité aviaire à large échelle à partir de séries temporelles d&amp;rsquo;images satellites&lt;/em&gt;, Master of Science in Environmental Engineering (AgroParisTech).
+
+&lt;ul&gt;
+&lt;li&gt;Co-advisor: S. Bonthoux (UMR CITERES).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;C. Planque&lt;/strong&gt; (2013), &lt;em&gt;Reconstitution de l&amp;rsquo;histoire des forêts dans les Coteaux de Gascogne à partir de données anciennes et actuelles. Analyse des relations avec la biodiversité d&amp;rsquo;aujourd&amp;rsquo;hui&lt;/em&gt;, Master of Science in AgroGeomatics Engineering (INP-ENSAT).
+
+&lt;ul&gt;
+&lt;li&gt;Co-advisor: P.A. Herrault (UMR DYNAFOR).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;L. Villierme&lt;/strong&gt; (2013), &lt;em&gt;Caratérisation automatique du réseau linéaire de haies dans un paysage agri-forestier&lt;/em&gt;, Master of Science in GIS (INP-ENSAT / Université Jean-Jaurès). &lt;br&gt;&lt;/br&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;F. Collart&lt;/strong&gt; (2011), &lt;em&gt;Méthodologie d&amp;rsquo;extraction automatique des fragments boisés en milieu agricole à partir d&amp;rsquo;un couple d&amp;rsquo;images stéréoscopiques à THRS&lt;/em&gt;, Master of Science in Environmental Engineering (AgroCampus Ouest).
+
+&lt;ul&gt;
+&lt;li&gt;Co-advisor: M. Fauvel (UMR DYNAFOR).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;E. Barussaud&lt;/strong&gt; (2011), &lt;em&gt;Méthodologie de classification de l&amp;rsquo;occupation du sol dans un paysage agricole à partir d&amp;rsquo;images satellitales à haute résolution spatiale&lt;/em&gt;, Master of Science in Remote Sensing (TGAE Université Paris 7 / IPGP).
+
+&lt;ul&gt;
+&lt;li&gt;Co-advisor: J.P. Lacombe (UMR DYNAFOR).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;student-committees&#34;&gt;Student committees&lt;/h1&gt;
+
+&lt;h3 id=&#34;ph-d-dissertation-examining-committee-member&#34;&gt;Ph.D. Dissertation (examining committee member)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;B. Bellon&lt;/strong&gt; (2018), Une approche multiscalaire par télédétection pour la cartographie et la caractérisation des systèmes agricoles à l’échelle régionale, Thèse de doctorat en Géomatique (ED GAIA), AgroParisTech, France.
+
+&lt;ul&gt;
+&lt;li&gt;Advisors: A. Bégué &amp;amp; V. Lebourgeois (TETIS).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;S. Rougier&lt;/strong&gt; (2016), Apport des images satellites à Très Haute Résolution Spatiale couplées à des données géographiques multi-sources pour l&amp;rsquo;analyse des espaces urbains, PhD in Geography, University of Strasbourg, France.
+
+&lt;ul&gt;
+&lt;li&gt;Advisors: A. Puissant &amp;amp; S. Glatron (LIVE).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;J. Osman&lt;/strong&gt; (2015), Connaissances expertes et modélisation pour l’exploitation d’images d’observation de la Terre à hautes résolutions spatiale, spectrale et temporelle, PhD in Environmental Sciences (ED SDU2E), University of Toulouse (UPS), France.
+
+&lt;ul&gt;
+&lt;li&gt;Advisor: J. Inglada (CESBIO).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;E. Buard&lt;/strong&gt; (2013), Une approche multiscalaire par télédétection pour la cartographie et la caractérisation des systèmes agricoles à l’échelle régionale, PhD in Geography, University Paris 1, France.
+
+&lt;ul&gt;
+&lt;li&gt;Advisors: A. Ruas (IFFSTAR) &amp;amp; L. Sanders (CNRS).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;F. Laplanche&lt;/strong&gt; (2006), e-Space : Environnement de conception de bases de données spatiales sur Internet, PhD in Geomactis, University of Liège, Belgium.
+
+&lt;ul&gt;
+&lt;li&gt;Advisor: J.P. Donnay (Geomatics Unit).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;ph-d-dissertation-advisory-committee-member&#34;&gt;Ph.D. Dissertation (advisory committee member)&lt;/h3&gt;
+
+&lt;p&gt;Current:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;G. Lassalle&lt;/strong&gt; (since 2016), Combining hyperspectral and radar data for vegetation health analysis affected by hydrocarbon, PhD in Physics (ED GEET), University of Toulouse, France.
+
+&lt;ul&gt;
+&lt;li&gt;Advisors: S. Fabre (ONERA) &amp;amp; A. Elger (ECOLAB).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;J. Durango&lt;/strong&gt; (since 2014), Impacts socio-environnementaux de l’exploitation pétrolière en Amazonie équatorienne. De l’étude spatiale de la vulnérabilité à des modèles prospectifs du risque, PhD in Geography (ED TESC), University of Toulouse, France.
+
+&lt;ul&gt;
+&lt;li&gt;Advisors: M. Saqalli (GEODE Lab.) &amp;amp; A. Elger (ECOLAB).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Graduated:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;J. Grimaldi&lt;/strong&gt; (2018), Quel est l’apport de l’agroforesterie pour la résilience des systèmes agricoles face au risque climatique ? Étude de cas en paysage gersois, PhD in Env. Sciences (ED SDU2E), University of Toulouse, France.
+
+&lt;ul&gt;
+&lt;li&gt;Advisors: V. Bustillo (CESBIO Lab.) &amp;amp; T. Houet (LETG-Costel Lab.).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;T. Agbanou&lt;/strong&gt; (2018), Dynamique de l’occupation du sol dans le secteur de Natitingou-Boukombé. De l’analyse diachronique à la modélisation prospective, PhD in Geography (ED TESC), University of Toulouse, France.
+
+&lt;ul&gt;
+&lt;li&gt;Advisors: B. Tente (UAC, Bénin) &amp;amp; M. Paegelow (GEODE Lab.).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;M. Vigan&lt;/strong&gt; (2018), Vers un arbre à palabres agroforestier. Le modèle Terafor d&amp;rsquo;évaluation multicritère qualitative pour considérer l&amp;rsquo;ensemble des fonctions des espaces arborés dans les territoires agricoles, PhD in Env. Sciences (ED SEVAB), University of Toulouse, France.
+
+&lt;ul&gt;
+&lt;li&gt;Advisors: M. Deconchat (DYNAFOR Lab.) &amp;amp; L. Simon (LADYSS Lab.).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;J. Albetis&lt;/strong&gt; (2018), Potentiel des images multispectrales acquises par drone dans la détection des zones infectées par la Flavescence dorée de la vigne, PhD in Env. Sciences (ED SEVAB), University of Toulouse, France.
+
+&lt;ul&gt;
+&lt;li&gt;Advisors: S. Duthoit (DYNAFOR Lab.) &amp;amp; G. Dedieu (CESBIO Lab.).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;M. Jeanmougin&lt;/strong&gt; (2016), Intérêts et limites d’une cartographie nationale des habitats : une évaluation multi-taxons et multi-échelle, PhD in Ecology, University of Paris 6 (UPMC) / MNHN, France.
+
+&lt;ul&gt;
+&lt;li&gt;Advisors: E. Porcher &amp;amp; R. Juillard (Cesco, MNHN).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;C. Devaux&lt;/strong&gt; (2016), Résilience des services écosystémiques à l’échelle du paysage : un cadre conceptuel et une analyse pour un socio-écosystème de montagne, PhD in Ecology, University of Grenoble, France.
+
+&lt;ul&gt;
+&lt;li&gt;Advisor: S. Lavorel (LECA Lab.).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;L. Vacquié&lt;/strong&gt; (2015), Modélisation prospective des changements des modes d’occupation et d’usages des sols. Approche multi-échelle appliquée sur les Pyrénées, PhD in Geography (ED TESC), University of Toulouse, France.
+
+&lt;ul&gt;
+&lt;li&gt;Advisors: T. Houet &amp;amp; M. Paegelow (GEODE Lab.).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;D. Toro Balbotin&lt;/strong&gt; (2014), Analyse de la déterioration de la forêt de la Cordillère de la Costa dans le sud chilien : géomatique et modélisation prospective appliquée sur une forêt patrimoniale de la province d’Osorno, PhD in Geography (ED TESC), University of Toulouse, France.
+
+&lt;ul&gt;
+&lt;li&gt;Advisor: T. Houet &amp;amp; M. Paegelow (GEODE Lab.).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;P. Gos&lt;/strong&gt; (2013), Modélisation des bouquets de services écosystémiques et intensification écologique des pratiques d’élevage dans Vercors, PhD in Ecology, University of Grenoble, France.
+
+&lt;ul&gt;
+&lt;li&gt;Advisor: S. Lavorel (LECA Lab.).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;N. Maestripieri&lt;/strong&gt; (2012), Dynamiques spatio-temporelles de plantations forestières industrielles dans le sud chilien. De l’analyse diachronique à la modélisation prospective, PhD in Geography (ED TESC), University of Toulouse, France.
+
+&lt;ul&gt;
+&lt;li&gt;Advisor: M. Paegelow &amp;amp; G. Selleron (GEODE Lab.).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>La télédétection des infrastructures agro-écologiques : de la promesse aux méthodes opérationnelles (Tél-IAE)</title>
+      <link>https://dsheeren.github.io/publication/sausse_ia_2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/sausse_ia_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object-Based Classification of Grasslands from High Resolution Satellite Image Time Series Using Gaussian Mean Map Kernels</title>
+      <link>https://dsheeren.github.io/publication/lopes_rs_2017/</link>
+      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/lopes_rs_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tree Species Classification in Temperate Forests Using Formosat-2 Satellite Image Time Series</title>
+      <link>https://dsheeren.github.io/publication/sheeren_rs_2016/</link>
+      <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/sheeren_rs_2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adapting grazing practices to limit the reforestation of mountainous summer pastures: A process-based approach</title>
+      <link>https://dsheeren.github.io/publication/vacquie_ems_2016/</link>
+      <pubDate>Fri, 22 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/vacquie_ems_2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching activities</title>
+      <link>https://dsheeren.github.io/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://dsheeren.github.io/teaching/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://dsheeren.github.io/img/bandeau_cours.png&#34; alt=&#34;Cours&#34; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;academic-responsabilities&#34;&gt;Academic responsabilities&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Since 2017: head of the &lt;a href=&#34;http://www.ensat.fr/fr/formations/formation-ingenieur/specialisations/agrogeomatique.html&#34; target=&#34;_blank&#34;&gt;3rd year program in AgroGeomatics&lt;/a&gt; (engineering degree) at INP-ENSAT&lt;/li&gt;
+&lt;li&gt;Since 2017: resp. of the international student exchange programs with the Belgian universities&lt;/li&gt;
+&lt;li&gt;Since 2015: board member of the Engineering and Numerical Sciences depart. at INP-ENSAT&lt;/li&gt;
+&lt;li&gt;Since 2014: elected member of the ENSAT studies and student activities council (CEVE)&lt;/li&gt;
+&lt;li&gt;Since 2010: steering commitee member of the &lt;a href=&#34;http://sigma.univ-toulouse.fr/fr/index.html&#34; target=&#34;_blank&#34;&gt;Master program in Geomatics SIGMA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;courses&#34;&gt;Courses&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Engineering degree (Toulouse &lt;a href=&#34;http://www.ensat.fr/en/index.html&#34; target=&#34;_blank&#34;&gt;INP-ENSAT&lt;/a&gt;)&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1st year:
+
+&lt;ul&gt;
+&lt;li&gt;Since 2006 : &lt;strong&gt;Introduction to GIS&lt;/strong&gt;, UE MI-2 (Mathematics and Computer Sciences II, S6)
+
+&lt;ul&gt;
+&lt;li&gt;Class (4h) and Lab. (6x6h)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Since 2008 : &lt;strong&gt;Tutored industrial projects&lt;/strong&gt;.
+
+&lt;ul&gt;
+&lt;li&gt;1st part (5h)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;2nd year:
+
+&lt;ul&gt;
+&lt;li&gt;Since 2006 : &lt;strong&gt;Advanced GIS and Spatial Analysis&lt;/strong&gt;, Pre-specialization module (S8)
+
+&lt;ul&gt;
+&lt;li&gt;Lab. (2x18h)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;From 2006 to 2010 : &lt;strong&gt;Remote Sensing and image analysis&lt;/strong&gt;, Pre-specialization module (S8)
+
+&lt;ul&gt;
+&lt;li&gt;Class and Lab. (1x30h)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Since 2010 : &lt;strong&gt;Agent-based modelling&lt;/strong&gt;,  Pre-specialization module (S8)
+
+&lt;ul&gt;
+&lt;li&gt;Class (3h)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Since 2008 : &lt;strong&gt;Tutored industrial projects&lt;/strong&gt;.
+
+&lt;ul&gt;
+&lt;li&gt;2nd part (15h)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;3rd year:
+
+&lt;ul&gt;
+&lt;li&gt;Since 2006 : &lt;strong&gt;GIS and Remote Sensing integration for environmental applications&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Specialization in Agro-ecology, environment and territories (AGREST)&lt;/li&gt;
+&lt;li&gt;Full-time project (3 weeks)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Since 2006 : &lt;strong&gt;GIS-based soil erosion modelling&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Specialization in Environmental quality and resource management (QEGR)&lt;/li&gt;
+&lt;li&gt;Full-time project (25h)&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Since 2006 : &lt;strong&gt;End of degree internship advisory&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Specializations: AgroGeomatics, QEGR, AGREST, EBEN&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Engineering degree (Toulouse &lt;a href=&#34;http://www.enseeiht.fr/en/index.html&#34; target=&#34;_blank&#34;&gt;INP-ENSEEIHT&lt;/a&gt;)&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;3rd year:
+
+&lt;ul&gt;
+&lt;li&gt;Since 2006 : &lt;strong&gt;Digital Terrain Modelling and spatial interpolation methods&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Specialization in Hydrology and Environmental Engineering (3HY SEE, GE)&lt;/li&gt;
+&lt;li&gt;Class (2h) and Lab. (2x10h)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Master degree &lt;a href=&#34;http://sigma.univ-toulouse.fr/fr/index.html&#34; target=&#34;_blank&#34;&gt;SIGMA&lt;/a&gt; (Toulouse INP-ENSAT / UT2J)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;coupled with the the 3rd year of Engineering degree in AgroGeomatics:
+
+&lt;ul&gt;
+&lt;li&gt;Since 2006 : &lt;strong&gt;Spatial analysis in GIS&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lab. (16h)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Since 2016 : &lt;strong&gt;Statistical analysis of spatial data using R&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lab. (16h)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Since 2013 : &lt;strong&gt;Unified Modelling Language (UML): a short introduction&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Class (2h)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Since 2007 : &lt;strong&gt;Spatial data quality&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Class (2h)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Since 2011 : &lt;strong&gt;Introduction to research methodology&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Class, lab and conferences (25h)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Since 2006 : &lt;strong&gt;Project in RS or GIS&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Full-time project (5 weeks)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Since 2006 : &lt;strong&gt;End of degree internship advisory&lt;/strong&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Master degree &lt;a href=&#34;http://www.inp-toulouse.fr/fr/formations/l-offre-de-formation/mastere-et-dhet/msei.html&#34; target=&#34;_blank&#34;&gt;Eco-Engineering&lt;/a&gt; (Toulouse INP)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Since 2014 : &lt;strong&gt;Modelling and simulating complex systems&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Class (4h) and Lab. (10h)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;student-advisees&#34;&gt;Student Advisees&lt;/h1&gt;
+
+&lt;h3 id=&#34;pedagogical-projects-master-degree-sigma&#34;&gt;Pedagogical projects (Master degree SIGMA)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;B. Palau&lt;/strong&gt;, &lt;strong&gt;Q. Vigneron&lt;/strong&gt; (2018), &lt;em&gt;Le démélange : détection de plusieurs essences forestières dans un même pixel&lt;/em&gt;, 6 weeks project.
+
+&lt;ul&gt;
+&lt;li&gt;Co-advisor : N. Karasiak (UMR DYNAFOR).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;S. Georges&lt;/strong&gt;, &lt;strong&gt;F. Seree&lt;/strong&gt; (2017), &lt;em&gt;Détection de changements à partir de MNS historiques : application aux espaces forestiers&lt;/em&gt;, 6 weeks project.
+
+&lt;ul&gt;
+&lt;li&gt;Co-advisor : S. Giordano (IGN / MATIS).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A. Greco&lt;/strong&gt;, &lt;strong&gt;E. Munesa&lt;/strong&gt; (2017), &lt;em&gt;Evaluation de l&amp;rsquo;outil de télédétection Orfeo ToolBox (OTB) en entreprise&lt;/em&gt;, 6 weeks project.
+
+&lt;ul&gt;
+&lt;li&gt;Co-advisor : M. Fauvel (UMR DYNAFOR) + EGIS Environnement&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;M. Boudeau&lt;/strong&gt;, &lt;strong&gt;S. Mendizabal&lt;/strong&gt; (2016), &lt;em&gt;Cartographie des forêts anciennes sur le territoire du SICOVAL&lt;/em&gt;, 5 weeks project.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;F. Bouge&lt;/strong&gt;, &lt;strong&gt;A. Mayis&lt;/strong&gt; (2014), &lt;em&gt;Analyse des potentialités de l&amp;rsquo;imagerie hyperspectrale dans la discrimination des espèces arborées en zone tempérée&lt;/em&gt;, projet du Master 2 SIGMA, 5 weeks project.
+
+&lt;ul&gt;
+&lt;li&gt;Co-advisor : M. Fauvel (UMR DYNAFOR).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;K. Gouerec&lt;/strong&gt;, &lt;strong&gt;P. Loussert&lt;/strong&gt; (2014), &lt;em&gt;Interface IDL/ENVI pour la détection d&amp;rsquo;objets dans les cartes anciennes&lt;/em&gt;, 5 weeks project.
+
+&lt;ul&gt;
+&lt;li&gt;Co-advisors : M. Fauvel et P.-A. Herrault (UMR DYNAFOR).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;J. Albetis&lt;/strong&gt;, &lt;strong&gt;B. Cautain&lt;/strong&gt;, &lt;strong&gt;M. Lamare&lt;/strong&gt; (2013), &lt;em&gt;Exploitation de mesures spectro-radiométriques pour estimer la composition chimique de prairies de montagne&lt;/em&gt;, 5 weeks project.
+
+&lt;ul&gt;
+&lt;li&gt;Co-advisor : M. Fauvel (UMR DYNAFOR).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;S. Guerin&lt;/strong&gt;, &lt;strong&gt;S. Pigourier&lt;/strong&gt;, &lt;strong&gt;S. Singer&lt;/strong&gt; (2013), &lt;em&gt;Reconstitution 3D du castrum de Fourquevaux de 1497 à nos jours&lt;/em&gt;, 5 weeks project.
+
+&lt;ul&gt;
+&lt;li&gt;Co-advisor : C. Monteil (UMR DYNAFOR).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A. Bozza&lt;/strong&gt;, &lt;strong&gt;M. Guerecheau&lt;/strong&gt;, &lt;strong&gt;E. Stancioff&lt;/strong&gt; (2012), &lt;em&gt;Etude des modèles de transformations géométriques pour le géoréférencement de cartes anciennes&lt;/em&gt;, 5 weeks project.
+
+&lt;ul&gt;
+&lt;li&gt;Co-advisor : P.-A. Herrault (UMR DYNAFOR).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;B. Balizet&lt;/strong&gt;, &lt;strong&gt;B. Tual&lt;/strong&gt; (2010), &lt;em&gt;Cartographie de l&amp;rsquo;occupation du sol d&amp;rsquo;un paysage agricole (canton d&amp;rsquo;Aurignac) et analyse de son évolution pour l&amp;rsquo;identification des rotations culturales&lt;/em&gt;, 5 weeks project.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;D. Donner&lt;/strong&gt;, &lt;strong&gt;L. Clement&lt;/strong&gt; (2010), &lt;em&gt;Extraction automatique des haies et fragments boisés au sein d&amp;rsquo;un paysage agricole du Gers à partir de photographies IR numériques&lt;/em&gt;, 5 weeks project.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;L. Caralp&lt;/strong&gt;, &lt;strong&gt;F. Pennec&lt;/strong&gt;, &lt;strong&gt;Y. Pourcelot&lt;/strong&gt; (2009), &lt;em&gt;Visualisation de dynamiques spatiales sous Google Earth&lt;/em&gt;, 5 weeks project.
+
+&lt;ul&gt;
+&lt;li&gt;Co-advisor : C. Monteil (UMR DYNAFOR).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;J.-B. Monteignies&lt;/strong&gt;, &lt;strong&gt;S. Toillis&lt;/strong&gt; (2009), &lt;em&gt;Evaluation des données SPOT-5 pour la caractérisation des zones humides riveraines de la Garonne&lt;/em&gt;, 5 weeks project.
+
+&lt;ul&gt;
+&lt;li&gt;Co-advisor : J.-P. Lacombe (UMR DYNAFOR).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;M. Labarthe&lt;/strong&gt;, &lt;strong&gt;M. Iskandar&lt;/strong&gt; (2008), &lt;em&gt;Gestion de données historiques géoréférencées d&amp;rsquo;exploitations agricoles couplant SIG et SGBD&lt;/em&gt;, 5 weeks project.
+
+&lt;ul&gt;
+&lt;li&gt;Co-advisor : M. Souques (ENSAT).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;L. Chamaille&lt;/strong&gt;, &lt;strong&gt;F. Roussel&lt;/strong&gt;, &lt;strong&gt;E. Vintrou&lt;/strong&gt; (2008), &lt;em&gt;Etude  de la retenue de Malause et de ses environs : cartographie bathymétrique et classification&lt;/em&gt;, 5 weeks project.
+
+&lt;ul&gt;
+&lt;li&gt;Co-advisor : J.-P. Lacombe (UMR DYNAFOR).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;J. Silva Cruz&lt;/strong&gt;, &lt;strong&gt;V. Tep&lt;/strong&gt; (2008), &lt;em&gt;Identification des types de couverts végétaux de la forêt de Fabas à partir d&amp;rsquo;images SPOT-5&lt;/em&gt;, 5 weeks project.
+
+&lt;ul&gt;
+&lt;li&gt;Co-advisor : J.-P. Lacombe (UMR DYNAFOR).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;S. Coste&lt;/strong&gt;, &lt;strong&gt;C. Deneu-Casanova&lt;/strong&gt;, &lt;strong&gt;G. Voeltzel&lt;/strong&gt;, &lt;strong&gt;V. Robbe&lt;/strong&gt; (2007), &lt;em&gt;Classification orientée-objet d&amp;rsquo;une image satellitaire THRS sur le littoral normand&lt;/em&gt;, 5 weeks project.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Combined effects of area, connectivity, history and structural heterogeneity of woodlands on the species richness of hoverflies (Diptera: Syrphidae)</title>
+      <link>https://dsheeren.github.io/publication/herrault_le_2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/herrault_le_2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the spatial uncertainty of future land abandonment in a mountainous valley (Vicdessos, Pyrenees - France): insights from model parameterization and experiments</title>
+      <link>https://dsheeren.github.io/publication/houet_jms_2015/</link>
+      <pubDate>Tue, 29 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/houet_jms_2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vectorisation automatique des forêts dans les minutes de la carte d&#39;Etat-Major du 19e siècle</title>
+      <link>https://dsheeren.github.io/publication/herrault_rig_2015/</link>
+      <pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/herrault_rig_2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on David Sheeren</title>
+    <link>https://dsheeren.github.io/post/</link>
+    <description>Recent content in Posts on David Sheeren</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://dsheeren.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DYNAFOR has 15 years old!</title>
+      <link>https://dsheeren.github.io/post/dynaforbirthday/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://dsheeren.github.io/post/dynaforbirthday/</guid>
+      <description>We spent a nice meeting last tuesday with all members of DYNAFOR to celebrate the fifteenth anniversary of the laboratory. G. Balent, the lab&amp;rsquo;s founder (recently retired!), started the meeting with a presentation about the genesis of the group and the research questions associated at startup in 2003. M. Deconchat, our last director, made a quick review of our activities conducted for 15 years. We finished the morning meeting by a SWOT analysis (Strengths, Weaknesses, Opportunities and Threats) to prepare the next years.</description>
+    </item>
+    
+    <item>
+      <title>Back from ForestSAT&#39;2018, Univ. of Maryland, USA</title>
+      <link>https://dsheeren.github.io/post/forestsat2018/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://dsheeren.github.io/post/forestsat2018/</guid>
+      <description>The ForestSAT&amp;rsquo;2018 Conference was organized by the University of Maryland and the NASA Goddar Space Flight Center at USA, Washington D.C. during 5 days (1-5 October 2018). Many of us from DYNAFOR, CESBIO and ONERA Toulouse were there. The program of the conference was really exciting with talks on all the subjects: large area mapping, forest structure and biomass, forest biodiversity assessment, forest composition and phenology, change detection and disturbances, forest in the global carbon cycle&amp;hellip; with optical time series, LiDAR, UAV, SAR data.</description>
+    </item>
+    
+    <item>
+      <title>New published paper in Remote Sensing Journal</title>
+      <link>https://dsheeren.github.io/post/paperrs2018/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://dsheeren.github.io/post/paperrs2018/</guid>
+      <description>This paper named Spatial and Temporal Dependency of NDVI Satellite Imagery in Predicting Bird Diversity over France (see publication) intended to confirm the conclusions we obtained in a previous study made in southwestern France. Here, we used a large bird dataset collected at the French national scale to (i) compare single date NDVI data and DHI (i.e. the Dynamic Habitat Index) to explain and predict species richness patterns of different bird groups; (ii) identify the best NDVI acquisition date to explain and predict bird species richness; and (iii) test whether the best NDVI acquisition date depends on the dominant land cover in landscapes.</description>
+    </item>
+    
+  </channel>
+</rss>
