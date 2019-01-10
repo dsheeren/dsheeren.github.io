@@ -11,6 +11,35 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Finding the Red Oak...</title>
+      <link>https://dsheeren.github.io/post/sentinelhub/</link>
+      <pubDate>Sun, 16 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://dsheeren.github.io/post/sentinelhub/</guid>
+      <description>
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34;  href=&#34;https://dsheeren.github.io/img/posts/Sentinel-2_L2A-timelapse_CheneR_2018.gif&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://dsheeren.github.io/img/posts/Sentinel-2_L2A-timelapse_CheneR_2018.gif&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is an excerpt of Sentinel-2 time series acquired over the year 2018 showing forest stands of conifer and deciduous species near Toulouse, France. If you watch the timelaps until the end, Red Oak will be unmasked&amp;hellip; Take a look at your forests with &lt;a href=&#34;https://www.sentinel-hub.com/&#34; target=&#34;_blank&#34;&gt;Sentinel-hub EO Browser&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>DYNAFOR is 15 years old!</title>
       <link>https://dsheeren.github.io/post/dynaforbirthday/</link>
       <pubDate>Thu, 29 Nov 2018 00:00:00 +0100</pubDate>
@@ -185,7 +214,9 @@
 &lt;h3 id=&#34;current-projects&#34;&gt;Current projects&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;2018-2020: &lt;strong&gt;TOSCA Parcelle&lt;/strong&gt; (CNES funding) &amp;ldquo;Large scale mapping from remote sensing imagery&amp;rdquo;. PI: M. Fauvel (UMR CESBIO). Partners: UMR Tetis, LaSTIG-IGN, UMR LETG -Costel, UMR Espace-Dev, UMR LIVE and UMR DYNAFOR.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;2019-2022: &lt;strong&gt;HIATUS&lt;/strong&gt; (ANR funding) &amp;ldquo;Historical Image Analysis for Territory Evolution Stories&amp;rdquo;. PI: S. Giordano (LaSTIG-IGN). Partners: LaSTIG-IGN, UMR LETG-Costel, UMR LIVE, UMR DYNAFOR, UMR ICube and Kermap.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2018-2020: &lt;strong&gt;TOSCA Parcelle&lt;/strong&gt; (CNES funding) &amp;ldquo;Large scale mapping from remote sensing imagery&amp;rdquo;. PI: M. Fauvel (UMR CESBIO). Partners: UMR Tetis, LaSTIG-IGN, UMR LETG-Costel, UMR Espace-Dev, UMR LIVE and UMR DYNAFOR.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;2018-2020: &lt;strong&gt;PACSE&lt;/strong&gt; (Region Occitanie funding) &amp;ldquo;Landscape and trade-off between ecosystem services&amp;rdquo;. Partners: UMR ECOLAB, UMR DYNAFOR, LEREPS.&lt;/p&gt;&lt;/li&gt;
 
@@ -239,7 +270,7 @@
 &lt;p&gt;Current:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Y. Hamrouni&lt;/strong&gt; (since 2017), &lt;em&gt;Synergy of optical/radar time series for mapping poplar plantations&lt;/em&gt;, PhD in Env. Sciences (ED SEVAB), University of Toulouse, France.
+&lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/profile/Yousra_Hamrouni&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Y. Hamrouni&lt;/strong&gt;&lt;/a&gt; (since 2017), &lt;em&gt;Synergy of optical/radar time series for mapping poplar plantations&lt;/em&gt;, PhD in Env. Sciences (ED SEVAB), University of Toulouse, France.
 
 &lt;ul&gt;
 &lt;li&gt;Co-advisors: C. Monteil &amp;amp; V. Cheret (UMR DYNAFOR), E. Paillassa (IDF).&lt;/li&gt;
@@ -254,7 +285,7 @@
 &lt;p&gt;Graduated:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;J. Aval&lt;/strong&gt; (2018), &lt;em&gt;Automatic mapping of urban tree species based on multi-source remotely sensed data&lt;/em&gt;, PhD in Physics (ED AA), University of Toulouse, France.
+&lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/profile/Josselin_Aval&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;J. Aval&lt;/strong&gt;&lt;/a&gt; (2018), &lt;em&gt;Automatic mapping of urban tree species based on multi-source remotely sensed data&lt;/em&gt;, PhD in Physics (ED AA), University of Toulouse, France.
 
 &lt;ul&gt;
 &lt;li&gt;Co-advisors: X. Briottet &amp;amp; S. Fabre (ONERA), E. Zenou (ISAE), M. Fauvel (DYNAFOR).&lt;/li&gt;
@@ -369,6 +400,12 @@
 &lt;p&gt;Current:&lt;/p&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;D. Morin&lt;/strong&gt; (since 2016),
+Estimation et suivi de la ressource en bois énergie en France par valorisation des séries multitemporelles d&amp;rsquo;images satellites à haute résolution spatiale, optique et radar, PhD in Env. Science (ED SDUEE), University of Toulouse, France.
+
+&lt;ul&gt;
+&lt;li&gt;Advisors: G. Dedieu (CESBIO/CNES) &amp;amp; M. Planells (CESBIO/CNES).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;G. Lassalle&lt;/strong&gt; (since 2016), Combining hyperspectral and radar data for vegetation health analysis affected by hydrocarbon, PhD in Physics (ED GEET), University of Toulouse, France.
 
 &lt;ul&gt;
@@ -725,15 +762,6 @@
       <pubDate>Tue, 29 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://dsheeren.github.io/publication/houet_jms_2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vectorisation automatique des forêts dans les minutes de la carte d&#39;Etat-Major du 19e siècle</title>
-      <link>https://dsheeren.github.io/publication/herrault_rig_2015/</link>
-      <pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://dsheeren.github.io/publication/herrault_rig_2015/</guid>
       <description></description>
     </item>
     
