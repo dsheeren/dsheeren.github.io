@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A Generic Framework for Combining Multiple Segmentations in Geographic Object-Based Image Analysis</title>
+      <link>https://dsheeren.github.io/publication/lefevre_ijgi_2019/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/lefevre_ijgi_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>7th French Hyperspectral Remote Sensing Symposium (SFPT-GH)</title>
       <link>https://dsheeren.github.io/post/call_sfpt_gh/</link>
       <pubDate>Sun, 27 Jan 2019 00:00:00 +0100</pubDate>
@@ -811,15 +820,6 @@ Estimation et suivi de la ressource en bois énergie en France par valorisation 
 &lt;li&gt;&lt;strong&gt;S. Coste&lt;/strong&gt;, &lt;strong&gt;C. Deneu-Casanova&lt;/strong&gt;, &lt;strong&gt;G. Voeltzel&lt;/strong&gt;, &lt;strong&gt;V. Robbe&lt;/strong&gt; (2007), &lt;em&gt;Classification orientée-objet d&amp;rsquo;une image satellitaire THRS sur le littoral normand&lt;/em&gt;, 5 weeks project.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Combined effects of area, connectivity, history and structural heterogeneity of woodlands on the species richness of hoverflies (Diptera: Syrphidae)</title>
-      <link>https://dsheeren.github.io/publication/herrault_le_2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://dsheeren.github.io/publication/herrault_le_2016/</guid>
-      <description></description>
     </item>
     
   </channel>

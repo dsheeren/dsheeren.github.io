@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 14 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dsheeren.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Generic Framework for Combining Multiple Segmentations in Geographic Object-Based Image Analysis</title>
+      <link>https://dsheeren.github.io/publication/lefevre_ijgi_2019/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/lefevre_ijgi_2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Detection of individual trees in urban alignment from airborne data and contextual information: a marked point process approach</title>
