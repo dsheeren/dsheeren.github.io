@@ -17,10 +17,10 @@
       
     
   
-  <meta name="description" content="Mapping forest composition is a major concern for forest management, biodiversity assessment and for understanding the potential impacts of climate change on tree species distribution. In this study, the suitability of a dense high spatial resolution multispectral Formosat-2 satellite image time-series (SITS) to discriminate tree species in temperate forests is investigated. Based on a 17-date SITS acquired across one year, thirteen major tree species (8 broadleaves and 5 conifers) are classified in a study area of southwest France. The performance of parametric (GMM) and nonparametric (k-NN, RF, SVM) methods are compared at three class hierarchy levels for different versions of the SITS: (i) a smoothed noise-free version based on the Whittaker smoother; (ii) a non-smoothed cloudy version including all the dates; (iii) a non-smoothed noise-free version including only 14 dates. Noise refers to pixels contaminated by clouds and cloud shadows. The results of the 108 distinct classifications show a very high suitability of the SITS to identify the forest tree species based on phenological differences (average κ=0.93 estimated by cross-validation based on 1235 field-collected plots). SVM is found to be the best classifier with very close results from the other classifiers. No clear benefit of removing noise by smoothing can be observed. Classification accuracy is even improved using the non-smoothed cloudy version of the SITS compared to the 14 cloud-free image time series. However conclusions of the results need to be considered with caution because of possible overfitting. Disagreements also appear between the maps produced by the classifiers for complex mixed forests, suggesting a higher classification uncertainty in these contexts. Our findings suggest that time-series data can be a good alternative to hyperspectral data for mapping forest types. It also demonstrates the potential contribution of the recently launched Sentinel-2 satellite for studying forest ecosystems.">
+  <meta name="description" content="This study aims at identifying the best object-based fusion strategy that takes advantage of the complementarity of several heterogeneous airborne data sources for improving the classification of 15 tree species in an urban area (Toulouse, France). The airborne data sources are: hyperspectral Visible Near-Infrared (160 spectral bands, spatial resolution of 0.4 m) and Short-Wavelength Infrared (256 spectral bands, 1.6 m), panchromatic (14 cm), and a normalized Digital Surface Model (12.5 cm). Object-based feature and decision level fusion strategies are proposed and compared when applied to a reference site where the species are previously identified during ground truth collection. This allows the best fusion strategy to be selected with a view to introducing the method in an automatic process (tree crown delineation and species classification) on a test site, independent of the reference site used for learning. In particular, a decision level fusion is selected: based on the Support Vector Machine algorithm, Visible Near-Infrared and Short-Wavelength Infrared classifications use Minimum Noise Fraction components at the original spatial resolution, whereas panchromatic and normalized Digital Surface Model classifications use, respectively, Haralick’s and structural features computed at the object scale. After the computation of a decision profile for each source at the object level based on the classification algorithms’ membership probabilities, these decision profiles are combined and a decision rule is applied to predict the species. Focusing on the reference site, the Visible Near-Infrared exhibits the best performances with F-score values higher than 60% for 13 species out of 15. The Short-Wavelength Infrared is the most powerful for three species with F-score greater than 60% for seven common species with the Visible Near-Infrared. The panchromatic and normalized Digital Surface Model contribute marginally. The best fusion strategy (decision fusion) does not improve significantly the overall accuracy with 77% (kappa = 74%) against 75% (kappa = 72%) for the Visible Near-Infrared but in general, it improves the results for cases where complementarities have been observed. When applied to the test site and assessed for the two majority species (Tilia tomentosa and Platanus x hispanica), the selected approach gives consistent results with an overall accuracy of 63% against 55% for the Visible Near-Infrared.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://dsheeren.github.io/publication/sheeren_rs_2016/">
+  <link rel="alternate" hreflang="en-us" href="https://dsheeren.github.io/publication/aval_ijrs_2019/">
 
   
 
@@ -71,7 +71,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://dsheeren.github.io/publication/sheeren_rs_2016/">
+  <link rel="canonical" href="https://dsheeren.github.io/publication/aval_ijrs_2019/">
 
   <meta property="twitter:card" content="summary_large_image">
   
@@ -79,19 +79,19 @@
   <meta property="twitter:creator" content="@https://twitter.com/sheeren_david">
   
   <meta property="og:site_name" content="David Sheeren">
-  <meta property="og:url" content="https://dsheeren.github.io/publication/sheeren_rs_2016/">
-  <meta property="og:title" content="Tree Species Classification in Temperate Forests Using Formosat-2 Satellite Image Time Series | David Sheeren">
-  <meta property="og:description" content="Mapping forest composition is a major concern for forest management, biodiversity assessment and for understanding the potential impacts of climate change on tree species distribution. In this study, the suitability of a dense high spatial resolution multispectral Formosat-2 satellite image time-series (SITS) to discriminate tree species in temperate forests is investigated. Based on a 17-date SITS acquired across one year, thirteen major tree species (8 broadleaves and 5 conifers) are classified in a study area of southwest France. The performance of parametric (GMM) and nonparametric (k-NN, RF, SVM) methods are compared at three class hierarchy levels for different versions of the SITS: (i) a smoothed noise-free version based on the Whittaker smoother; (ii) a non-smoothed cloudy version including all the dates; (iii) a non-smoothed noise-free version including only 14 dates. Noise refers to pixels contaminated by clouds and cloud shadows. The results of the 108 distinct classifications show a very high suitability of the SITS to identify the forest tree species based on phenological differences (average κ=0.93 estimated by cross-validation based on 1235 field-collected plots). SVM is found to be the best classifier with very close results from the other classifiers. No clear benefit of removing noise by smoothing can be observed. Classification accuracy is even improved using the non-smoothed cloudy version of the SITS compared to the 14 cloud-free image time series. However conclusions of the results need to be considered with caution because of possible overfitting. Disagreements also appear between the maps produced by the classifiers for complex mixed forests, suggesting a higher classification uncertainty in these contexts. Our findings suggest that time-series data can be a good alternative to hyperspectral data for mapping forest types. It also demonstrates the potential contribution of the recently launched Sentinel-2 satellite for studying forest ecosystems.">
+  <meta property="og:url" content="https://dsheeren.github.io/publication/aval_ijrs_2019/">
+  <meta property="og:title" content="Object-based fusion for urban tree species classification from hyperspectral, panchromatic and nDSM data | David Sheeren">
+  <meta property="og:description" content="This study aims at identifying the best object-based fusion strategy that takes advantage of the complementarity of several heterogeneous airborne data sources for improving the classification of 15 tree species in an urban area (Toulouse, France). The airborne data sources are: hyperspectral Visible Near-Infrared (160 spectral bands, spatial resolution of 0.4 m) and Short-Wavelength Infrared (256 spectral bands, 1.6 m), panchromatic (14 cm), and a normalized Digital Surface Model (12.5 cm). Object-based feature and decision level fusion strategies are proposed and compared when applied to a reference site where the species are previously identified during ground truth collection. This allows the best fusion strategy to be selected with a view to introducing the method in an automatic process (tree crown delineation and species classification) on a test site, independent of the reference site used for learning. In particular, a decision level fusion is selected: based on the Support Vector Machine algorithm, Visible Near-Infrared and Short-Wavelength Infrared classifications use Minimum Noise Fraction components at the original spatial resolution, whereas panchromatic and normalized Digital Surface Model classifications use, respectively, Haralick’s and structural features computed at the object scale. After the computation of a decision profile for each source at the object level based on the classification algorithms’ membership probabilities, these decision profiles are combined and a decision rule is applied to predict the species. Focusing on the reference site, the Visible Near-Infrared exhibits the best performances with F-score values higher than 60% for 13 species out of 15. The Short-Wavelength Infrared is the most powerful for three species with F-score greater than 60% for seven common species with the Visible Near-Infrared. The panchromatic and normalized Digital Surface Model contribute marginally. The best fusion strategy (decision fusion) does not improve significantly the overall accuracy with 77% (kappa = 74%) against 75% (kappa = 72%) for the Visible Near-Infrared but in general, it improves the results for cases where complementarities have been observed. When applied to the test site and assessed for the two majority species (Tilia tomentosa and Platanus x hispanica), the selected approach gives consistent results with an overall accuracy of 63% against 55% for the Visible Near-Infrared.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2016-09-07T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2019-03-05T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2016-09-07T00:00:00&#43;00:00">
-  
-
+  <meta property="article:modified_time" content="2019-03-05T00:00:00&#43;00:00">
   
 
-  <title>Tree Species Classification in Temperate Forests Using Formosat-2 Satellite Image Time Series | David Sheeren</title>
+  
+
+  <title>Object-based fusion for urban tree species classification from hyperspectral, panchromatic and nDSM data | David Sheeren</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -249,10 +249,10 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">Tree Species Classification in Temperate Forests Using Formosat-2 Satellite Image Time Series</h1>
+    <h1 itemprop="name">Object-based fusion for urban tree species classification from hyperspectral, panchromatic and nDSM data</h1>
     <span class="pub-authors" itemprop="author">
       
-      <strong>D. Sheeren</strong>, M. Fauvel, V. Josipovic, M. Lopes, C. Planque, J. Willm, J.-F. Dejoux
+      J. Aval, S. Fabre, E. Zenou, <strong>D. Sheeren</strong>, M. Fauvel, X. Briottet
       
     </span>
     <span class="pull-right">
@@ -261,35 +261,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Tree%20Species%20Classification%20in%20Temperate%20Forests%20Using%20Formosat-2%20Satellite%20Image%20Time%20Series&amp;url=https%3a%2f%2fdsheeren.github.io%2fpublication%2fsheeren_rs_2016%2f"
+         href="https://twitter.com/intent/tweet?text=Object-based%20fusion%20for%20urban%20tree%20species%20classification%20from%20hyperspectral%2c%20panchromatic%20and%20nDSM%20data&amp;url=https%3a%2f%2fdsheeren.github.io%2fpublication%2faval_ijrs_2019%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fdsheeren.github.io%2fpublication%2fsheeren_rs_2016%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fdsheeren.github.io%2fpublication%2faval_ijrs_2019%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fdsheeren.github.io%2fpublication%2fsheeren_rs_2016%2f&amp;title=Tree%20Species%20Classification%20in%20Temperate%20Forests%20Using%20Formosat-2%20Satellite%20Image%20Time%20Series"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fdsheeren.github.io%2fpublication%2faval_ijrs_2019%2f&amp;title=Object-based%20fusion%20for%20urban%20tree%20species%20classification%20from%20hyperspectral%2c%20panchromatic%20and%20nDSM%20data"
          target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fdsheeren.github.io%2fpublication%2fsheeren_rs_2016%2f&amp;title=Tree%20Species%20Classification%20in%20Temperate%20Forests%20Using%20Formosat-2%20Satellite%20Image%20Time%20Series"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fdsheeren.github.io%2fpublication%2faval_ijrs_2019%2f&amp;title=Object-based%20fusion%20for%20urban%20tree%20species%20classification%20from%20hyperspectral%2c%20panchromatic%20and%20nDSM%20data"
          target="_blank" rel="noopener">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Tree%20Species%20Classification%20in%20Temperate%20Forests%20Using%20Formosat-2%20Satellite%20Image%20Time%20Series&amp;body=https%3a%2f%2fdsheeren.github.io%2fpublication%2fsheeren_rs_2016%2f">
+         href="mailto:?subject=Object-based%20fusion%20for%20urban%20tree%20species%20classification%20from%20hyperspectral%2c%20panchromatic%20and%20nDSM%20data&amp;body=https%3a%2f%2fdsheeren.github.io%2fpublication%2faval_ijrs_2019%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -303,7 +303,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Mapping forest composition is a major concern for forest management, biodiversity assessment and for understanding the potential impacts of climate change on tree species distribution. In this study, the suitability of a dense high spatial resolution multispectral Formosat-2 satellite image time-series (SITS) to discriminate tree species in temperate forests is investigated. Based on a 17-date SITS acquired across one year, thirteen major tree species (8 broadleaves and 5 conifers) are classified in a study area of southwest France. The performance of parametric (GMM) and nonparametric (k-NN, RF, SVM) methods are compared at three class hierarchy levels for different versions of the SITS: (i) a smoothed noise-free version based on the Whittaker smoother; (ii) a non-smoothed cloudy version including all the dates; (iii) a non-smoothed noise-free version including only 14 dates. Noise refers to pixels contaminated by clouds and cloud shadows. The results of the 108 distinct classifications show a very high suitability of the SITS to identify the forest tree species based on phenological differences (average κ=0.93 estimated by cross-validation based on 1235 field-collected plots). SVM is found to be the best classifier with very close results from the other classifiers. No clear benefit of removing noise by smoothing can be observed. Classification accuracy is even improved using the non-smoothed cloudy version of the SITS compared to the 14 cloud-free image time series. However conclusions of the results need to be considered with caution because of possible overfitting. Disagreements also appear between the maps produced by the classifiers for complex mixed forests, suggesting a higher classification uncertainty in these contexts. Our findings suggest that time-series data can be a good alternative to hyperspectral data for mapping forest types. It also demonstrates the potential contribution of the recently launched Sentinel-2 satellite for studying forest ecosystems.</p>
+    <p class="pub-abstract" itemprop="text">This study aims at identifying the best object-based fusion strategy that takes advantage of the complementarity of several heterogeneous airborne data sources for improving the classification of 15 tree species in an urban area (Toulouse, France). The airborne data sources are: hyperspectral Visible Near-Infrared (160 spectral bands, spatial resolution of 0.4 m) and Short-Wavelength Infrared (256 spectral bands, 1.6 m), panchromatic (14 cm), and a normalized Digital Surface Model (12.5 cm). Object-based feature and decision level fusion strategies are proposed and compared when applied to a reference site where the species are previously identified during ground truth collection. This allows the best fusion strategy to be selected with a view to introducing the method in an automatic process (tree crown delineation and species classification) on a test site, independent of the reference site used for learning. In particular, a decision level fusion is selected: based on the Support Vector Machine algorithm, Visible Near-Infrared and Short-Wavelength Infrared classifications use Minimum Noise Fraction components at the original spatial resolution, whereas panchromatic and normalized Digital Surface Model classifications use, respectively, Haralick’s and structural features computed at the object scale. After the computation of a decision profile for each source at the object level based on the classification algorithms’ membership probabilities, these decision profiles are combined and a decision rule is applied to predict the species. Focusing on the reference site, the Visible Near-Infrared exhibits the best performances with F-score values higher than 60% for 13 species out of 15. The Short-Wavelength Infrared is the most powerful for three species with F-score greater than 60% for seven common species with the Visible Near-Infrared. The panchromatic and normalized Digital Surface Model contribute marginally. The best fusion strategy (decision fusion) does not improve significantly the overall accuracy with 77% (kappa = 74%) against 75% (kappa = 72%) for the Visible Near-Infrared but in general, it improves the results for cases where complementarities have been observed. When applied to the test site and assessed for the two majority species (Tilia tomentosa and Platanus x hispanica), the selected approach gives consistent results with an overall accuracy of 63% against 55% for the Visible Near-Infrared.</p>
     
 
     
@@ -332,7 +332,7 @@
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">In <em>Remote Sensing</em>, 8(9), 734</div>
+          <div class="col-xs-12 col-sm-9">In <em>International Journal of Remote Sensing</em>, 40(14), pp. 5339-5365</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -346,7 +346,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            September, 2016
+            March, 2019
           </div>
         </div>
       </div>
@@ -366,7 +366,7 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="http://www.mdpi.com/2072-4292/8/9/734/pdf" target="_blank" rel="noopener">
+<a class="btn btn-primary btn-outline" href="https://www.tandfonline.com/doi/full/10.1080/01431161.2019.1579937" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -374,7 +374,7 @@
 
 
 <button type="button" class="btn btn-primary btn-outline js-cite-modal"
-        data-filename="/files/citations/sheeren_rs_2016.bib">
+        data-filename="/files/citations/aval_ijrs_2019.bib">
   Cite
 </button>
 
@@ -388,7 +388,7 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="http://www.mdpi.com/2072-4292/8/9/734" target="_blank" rel="noopener">
+<a class="btn btn-primary btn-outline" href="https://www.tandfonline.com/doi/full/10.1080/01431161.2019.1579937" target="_blank" rel="noopener">
   Journal
 </a>
 
