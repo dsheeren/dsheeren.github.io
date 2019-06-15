@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dsheeren.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A conceptual framework for the governance of multiple ecosystem services in agricultural landscapes</title>
+      <link>https://dsheeren.github.io/publication/vialatte_le_2019/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/vialatte_le_2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Object-based fusion for urban tree species classification from hyperspectral, panchromatic and nDSM data</title>

@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A conceptual framework for the governance of multiple ecosystem services in agricultural landscapes</title>
+      <link>https://dsheeren.github.io/publication/vialatte_le_2019/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/vialatte_le_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Object-based fusion for urban tree species classification from hyperspectral, panchromatic and nDSM data</title>
       <link>https://dsheeren.github.io/publication/aval_ijrs_2019/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
@@ -220,9 +229,9 @@
 &lt;h3 id=&#34;editorial-board&#34;&gt;Editorial board&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;International Journal of Agricultural and Environmental Information Systems (IJAEIS)&lt;/li&gt;
-&lt;li&gt;Revue Internationale de Géomatique (Hermès-Lavoisier).&lt;/li&gt;
-&lt;li&gt;Revue Française de Photogrammétrie et Télédétection (SFPT).&lt;/li&gt;
+&lt;li&gt;International Journal of Agricultural and Environmental Information Systems (&lt;a href=&#34;https://www.igi-global.com/journal/international-journal-agricultural-environmental-information/1160&#34; target=&#34;_blank&#34;&gt;IJAEIS&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Revue Internationale de Géomatique (&lt;a href=&#34;https://rig.revuesonline.com/&#34; target=&#34;_blank&#34;&gt;RIG&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Revue Française de Photogrammétrie et Télédétection (&lt;a href=&#34;https://www.sfpt.fr/revue/&#34; target=&#34;_blank&#34;&gt;RFPT&lt;/a&gt;).&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;reviewer&#34;&gt;Reviewer&lt;/h3&gt;
@@ -452,7 +461,12 @@
 &lt;h3 id=&#34;ph-d-dissertation-examining-committee-member&#34;&gt;Ph.D. Dissertation (examining committee member)&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;B. Bellon&lt;/strong&gt; (2018), Une approche multiscalaire par télédétection pour la cartographie et la caractérisation des systèmes agricoles à l’échelle régionale, Thèse de doctorat en Géomatique (ED GAIA), AgroParisTech, France.
+&lt;li&gt;&lt;strong&gt;M. Lang&lt;/strong&gt; (2019), Caractérisation de l’hétérogénéité spatiale de milieux naturels à partir d’imagerie optique très haute résolution spatiale, PhD in Geomatics (ED GAIA), AgroParisTech, France.
+
+&lt;ul&gt;
+&lt;li&gt;Advisors: N. Baghdadi, S. Luque, J.-B. Féret &amp;amp; S. Alleaume (TETIS).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;B. Bellon&lt;/strong&gt; (2018), Une approche multiscalaire par télédétection pour la cartographie et la caractérisation des systèmes agricoles à l’échelle régionale, PhD in Geomatics (ED GAIA), AgroParisTech, France.
 
 &lt;ul&gt;
 &lt;li&gt;Advisors: A. Bégué &amp;amp; V. Lebourgeois (TETIS).&lt;/li&gt;
@@ -472,7 +486,7 @@
 &lt;ul&gt;
 &lt;li&gt;Advisors: A. Ruas (IFFSTAR) &amp;amp; L. Sanders (CNRS).&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;F. Laplanche&lt;/strong&gt; (2006), e-Space : Environnement de conception de bases de données spatiales sur Internet, PhD in Geomactis, University of Liège, Belgium.
+&lt;li&gt;&lt;strong&gt;F. Laplanche&lt;/strong&gt; (2006), e-Space : Environnement de conception de bases de données spatiales sur Internet, PhD in Geomatics, University of Liège, Belgium.
 
 &lt;ul&gt;
 &lt;li&gt;Advisor: J.P. Donnay (Geomatics Unit).&lt;/li&gt;
@@ -484,6 +498,12 @@
 &lt;p&gt;Current:&lt;/p&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;R. Mejean&lt;/strong&gt; (since 2017),
+Modélisation rétroprospective des dynamiques environnementales et sociales de la région amazonienne en Equateur : couplage de modèles réseaux d’acteurs et spatio-temporels, PhD in Geography (ED SDUEE), University of Toulouse, France.
+
+&lt;ul&gt;
+&lt;li&gt;Advisors: M. Saqalli (GEODE Lab.) &amp;amp; M. Paegelow (GEODE Lab.).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;D. Morin&lt;/strong&gt; (since 2016),
 Estimation et suivi de la ressource en bois énergie en France par valorisation des séries multitemporelles d&amp;rsquo;images satellites à haute résolution spatiale, optique et radar, PhD in Env. Science (ED SDUEE), University of Toulouse, France.
 
@@ -495,16 +515,16 @@ Estimation et suivi de la ressource en bois énergie en France par valorisation 
 &lt;ul&gt;
 &lt;li&gt;Advisors: S. Fabre (ONERA) &amp;amp; A. Elger (ECOLAB).&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;J. Durango&lt;/strong&gt; (since 2014), Impacts socio-environnementaux de l’exploitation pétrolière en Amazonie équatorienne. De l’étude spatiale de la vulnérabilité à des modèles prospectifs du risque, PhD in Geography (ED TESC), University of Toulouse, France.
-
-&lt;ul&gt;
-&lt;li&gt;Advisors: M. Saqalli (GEODE Lab.) &amp;amp; A. Elger (ECOLAB).&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Graduated:&lt;/p&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;J. Durango&lt;/strong&gt; (2019), Impacts environnementaux de l&amp;rsquo;exploitation pétrolière en Amazonie équatorienne : de l&amp;rsquo;étude spatiale de la vulnérabilité à l&amp;rsquo;évaluation du risque, PhD in Env. Sciences (ED SDU2E), University of Toulouse, France.
+
+&lt;ul&gt;
+&lt;li&gt;Advisors: M. Saqalli (GEODE Lab.) &amp;amp; A. Elger (ECOLAB).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;J. Grimaldi&lt;/strong&gt; (2018), Quel est l’apport de l’agroforesterie pour la résilience des systèmes agricoles face au risque climatique ? Étude de cas en paysage gersois, PhD in Env. Sciences (ED SDU2E), University of Toulouse, France.
 
 &lt;ul&gt;
@@ -583,15 +603,6 @@ Estimation et suivi de la ressource en bois énergie en France par valorisation 
       <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>https://dsheeren.github.io/publication/sheeren_rs_2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adapting grazing practices to limit the reforestation of mountainous summer pastures: A process-based approach</title>
-      <link>https://dsheeren.github.io/publication/vacquie_ems_2016/</link>
-      <pubDate>Fri, 22 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://dsheeren.github.io/publication/vacquie_ems_2016/</guid>
       <description></description>
     </item>
     
