@@ -11,6 +11,41 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Our collective book about Geographic Data Imperfection is out!</title>
+      <link>https://dsheeren.github.io/post/book_imperections/</link>
+      <pubDate>Sun, 13 Oct 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://dsheeren.github.io/post/book_imperections/</guid>
+      <description>
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34;  href=&#34;https://dsheeren.github.io/img/posts/book_imperfection.jpg&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://dsheeren.github.io/img/posts/book_imperfection.jpg&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://gdr-magis.imag.fr/&#34; target=&#34;_blank&#34;&gt;GdR CNRS MAGIS&lt;/a&gt; working group about &lt;a href=&#34;http://gdr-magis.imag.fr/actions-prospectives/incertitude-epistemique-des-donnees-aux-modeles-en-geomatique/&#34; target=&#34;_blank&#34;&gt;spatial uncertainty&lt;/a&gt; has published a new book called &lt;strong&gt;Geographic Data Imperfection 1: From Theory to Applications&lt;/strong&gt;, Batton-Hubert M., Desjardin E. and Pinet, F. (Eds).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About this book&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;&lt;em&gt;Geomatics is a field of science that has been intimately intertwined with our daily lives for almost 30 years, to the point where we often forget all the challenges it entails. Who does not have a navigation application on their phone or regularly engage with geolocated data? What is more, in the coming decades, the accumulation of geo-referenced data is expected to increase significantly.&lt;/em&gt;&amp;ldquo;&lt;/p&gt;
+
+&lt;p&gt;The Table of Contents is available on &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/book/10.1002/9781119507284&#34; target=&#34;_blank&#34;&gt;Wiley website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Un regard sur l&#39;évolution de la géomatique : analyse de 4 décennies de recherches au sein du Département de Géographie de l&#39;Université de Liège</title>
       <link>https://dsheeren.github.io/publication/billen_bsglg_2019/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
@@ -599,15 +634,6 @@ Estimation et suivi de la ressource en bois énergie en France par valorisation 
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://dsheeren.github.io/publication/sausse_ia_2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Object-Based Classification of Grasslands from High Resolution Satellite Image Time Series Using Gaussian Mean Map Kernels</title>
-      <link>https://dsheeren.github.io/publication/lopes_rs_2017/</link>
-      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dsheeren.github.io/publication/lopes_rs_2017/</guid>
       <description></description>
     </item>
     
