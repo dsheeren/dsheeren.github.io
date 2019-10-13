@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Un regard sur l&#39;évolution de la géomatique : analyse de 4 décennies de recherches au sein du Département de Géographie de l&#39;Université de Liège</title>
+      <link>https://dsheeren.github.io/publication/billen_bsglg_2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/billen_bsglg_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A conceptual framework for the governance of multiple ecosystem services in agricultural landscapes</title>
       <link>https://dsheeren.github.io/publication/vialatte_le_2019/</link>
       <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
@@ -599,15 +608,6 @@ Estimation et suivi de la ressource en bois énergie en France par valorisation 
       <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://dsheeren.github.io/publication/lopes_rs_2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tree Species Classification in Temperate Forests Using Formosat-2 Satellite Image Time Series</title>
-      <link>https://dsheeren.github.io/publication/sheeren_rs_2016/</link>
-      <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://dsheeren.github.io/publication/sheeren_rs_2016/</guid>
       <description></description>
     </item>
     
