@@ -13,6 +13,17 @@
     
     
     <item>
+      <title>Call for papers - Special Issue in Remote Sensing Journal</title>
+      <link>https://dsheeren.github.io/post/call_si_rs_2020/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://dsheeren.github.io/post/call_si_rs_2020/</guid>
+      <description>Dear Colleagues,
+This Special Issue Remote Sensing for Biodiversity Mapping and Monitoring aims to publish original research that specifically addresses various aspects of biodiversity mapping and monitoring over space and time using remote sensing from local to global scales. We invite a wide range of contributions from methodological to applied and multidisciplinary research about the following (non-exclusive) topics:
+ Taxonomic, structural, and functional diversity mapping from RS data; Species distribution modeling based on RS data; Retrieving biophysical and biochemical variables from RS data and radiative transfer models; Assessing and predicting ecosystem services from RS data; Ecosystems health monitoring from RS data; Reconstructing ecosystem trajectories over time from RS data; Advanced machine learning techniques (deep learning, transfer learning, active learning) for biodiversity mapping based on RS data; Fusion of multimodal images (optical/thermal/radar/lidar) to improve biodiversity mapping and monitoring.</description>
+    </item>
+    
+    <item>
       <title>Our collective book about Geographic Data Imperfection is out!</title>
       <link>https://dsheeren.github.io/post/book_imperections/</link>
       <pubDate>Sun, 13 Oct 2019 00:00:00 +0200</pubDate>

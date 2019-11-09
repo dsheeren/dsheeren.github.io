@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dsheeren.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Statistical Stability and Spatial Instability in Mapping Forest Tree Species by Comparing 9 Years of Satellite Image Time Series</title>
+      <link>https://dsheeren.github.io/publication/karasiak_rs_2019/</link>
+      <pubDate>Sat, 26 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/karasiak_rs_2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Un regard sur l&#39;évolution de la géomatique : analyse de 4 décennies de recherches au sein du Département de Géographie de l&#39;Université de Liège</title>
