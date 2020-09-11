@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Submerged macrophyte assessment in rivers: An automatic mapping method using Pléiades imagery</title>
+      <link>https://dsheeren.github.io/publication/espel_water_2020/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/espel_water_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep Learning for Automatic Colorization of Legacy Grayscale Aerial Photographs</title>
       <link>https://dsheeren.github.io/publication/poterek_jstars_2020/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
@@ -303,15 +312,6 @@ Dr. Sophie Fabre
 
 &lt;p&gt;&lt;a href=&#34;http://www.mdpi.com/2072-4292/10/7/1136&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://res.mdpi.com/def5020035eabd603ef29ea6366e32135bd59807fa334a9299c18427598207369505029f840fcf0bdc235a41f05982e60768c48811f655564d76aa2139bb4313e7544ab37ee561595fc712bdcc496aee21974e90b748f4115b4c406526f061032b9de04b59f9603a4dd2f4b819a7c858a36f71ba41b6b65a3ab57d674de5e5fc9c4848478c2aee78fabfe3a369ade8552f5b56720ea78ae77f085c5b922f6d6ed9d6ba9230a06e183937696d2d0ff64ed3e860&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Spatial and Temporal Dependency of NDVI Satellite Imagery in Predicting Bird Diversity over France</title>
-      <link>https://dsheeren.github.io/publication/bonthoux_rs_2018/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://dsheeren.github.io/publication/bonthoux_rs_2018/</guid>
-      <description></description>
     </item>
     
   </channel>
