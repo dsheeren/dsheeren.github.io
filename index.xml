@@ -11,6 +11,18 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>IGARSS&#39;2021 Symposium in Brussels!</title>
+      <link>https://dsheeren.github.io/post/igarss2021/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://dsheeren.github.io/post/igarss2021/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.igarss2021.com/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://www.igarss2021.com/images/IG21_Logo_Pill.svg&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Save the date!&lt;/strong&gt; The next IEEE International Geoscience and Remote Sensing Symposium &lt;a href=&#34;https://www.igarss2021.com/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;IGARSS&amp;rsquo;2021&lt;/strong&gt;&lt;/a&gt; will be in Brussels (Belgium) from the 11th of July to the 16th. The symposium is organized by Belgium (UCL, VUB, U Ghent) and Dutch Universities (TU Delft, Univ. Twente, WUR) with BELSPO, VITO and RMA. A great opportunity to go back at home ;-)!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Submerged macrophyte assessment in rivers: An automatic mapping method using Pléiades imagery</title>
       <link>https://dsheeren.github.io/publication/espel_water_2020/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
@@ -289,29 +301,6 @@ Dr. Sophie Fabre
       
       <guid>https://dsheeren.github.io/publication/aval_isprsj_2018/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>New published paper in Remote Sensing Journal</title>
-      <link>https://dsheeren.github.io/post/paperrs2018/</link>
-      <pubDate>Wed, 25 Jul 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://dsheeren.github.io/post/paperrs2018/</guid>
-      <description>&lt;p&gt;This paper named &lt;strong&gt;Spatial and Temporal Dependency of NDVI Satellite Imagery in Predicting Bird Diversity over France&lt;/strong&gt; (see &lt;a href=&#34;http://www.mdpi.com/2072-4292/10/7/1136&#34; target=&#34;_blank&#34;&gt;publication&lt;/a&gt;) intended to confirm the conclusions we obtained in a &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1470160X14000818?via%3Dihub&#34; target=&#34;_blank&#34;&gt;previous study&lt;/a&gt; made in southwestern France. Here, we used a large bird dataset collected at the French national scale to (i) compare single date NDVI data and DHI (i.e. the Dynamic Habitat Index) to explain and predict species richness patterns of different bird groups; (ii) identify the best NDVI acquisition date to explain and predict bird species richness; and (iii) test whether the best NDVI acquisition date depends on the dominant land cover in landscapes.&lt;/p&gt;
-
-&lt;p&gt;We observed that continuous (unclassified) predictors derived from satellite imagery contribute to build efficient Species Distribution Models (SDM) at large spatial scale. However, because of temporal variability of remotely sensed predictors over the year, acquisition time periods of the data affect the models’ performance. We found that:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Compared to a combination of multiple NDVI time periods or to the components of DHI, performance of bird models is higher with single time period of NDVI variables.&lt;/li&gt;
-&lt;li&gt;Models’ performance is time and context-dependent. At the French scale, end summer (NDVI 14-Sep) and begin of autumn (NDVI 30-Sep) are in most cases, the best time periods to explain and predict woodland and farmland birds species richness.&lt;/li&gt;
-&lt;li&gt;Best time period of NDVI is the one that better reflect dominant habitats in the bird survey plots.&lt;/li&gt;
-&lt;li&gt;Habitat components at finer scale have to be combined with climate variables at macro scale to explain and predict patterns of habitat specialist species.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These findings suggest that the most powerful approach is the simplest one. Only one image of appropriate time period is required for mapping bird species richness. This makes the use of unclassified remotely sensed data very operational for bird monitoring programs.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.mdpi.com/2072-4292/10/7/1136&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://res.mdpi.com/def5020035eabd603ef29ea6366e32135bd59807fa334a9299c18427598207369505029f840fcf0bdc235a41f05982e60768c48811f655564d76aa2139bb4313e7544ab37ee561595fc712bdcc496aee21974e90b748f4115b4c406526f061032b9de04b59f9603a4dd2f4b819a7c858a36f71ba41b6b65a3ab57d674de5e5fc9c4848478c2aee78fabfe3a369ade8552f5b56720ea78ae77f085c5b922f6d6ed9d6ba9230a06e183937696d2d0ff64ed3e860&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>
