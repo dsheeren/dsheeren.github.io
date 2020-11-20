@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>From local to global: A transfer learning-based approach for mapping poplar plantations at national scale using Sentinel-2</title>
+      <link>https://dsheeren.github.io/publication/hamrouni_isprs_2021/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/hamrouni_isprs_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>IGARSS&#39;2021 Symposium in Brussels!</title>
       <link>https://dsheeren.github.io/post/igarss2021/</link>
       <pubDate>Sun, 20 Sep 2020 00:00:00 +0200</pubDate>
@@ -292,15 +301,6 @@ Dr. Sophie Fabre
 &lt;li&gt;Aval J., Fabre S., Zenou E., &lt;strong&gt;Sheeren&lt;/strong&gt; D., Fauvel M. and Briottet X., An ensemble classifier approach for urban tree species classification from ground-based spectral references.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Detection of individual trees in urban alignment from airborne data and contextual information: a marked point process approach</title>
-      <link>https://dsheeren.github.io/publication/aval_isprsj_2018/</link>
-      <pubDate>Fri, 14 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://dsheeren.github.io/publication/aval_isprsj_2018/</guid>
-      <description></description>
     </item>
     
   </channel>
