@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Apports de la télédétection au calcul d’indicateurs agri-environnementaux au service de la PAC, des agriculteurs et porteurs d’enjeu</title>
+      <link>https://dsheeren.github.io/publication/bockstaller_ia_2021/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/bockstaller_ia_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>From local to global: A transfer learning-based approach for mapping poplar plantations at national scale using Sentinel-2</title>
       <link>https://dsheeren.github.io/publication/hamrouni_isprs_2021/</link>
       <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
@@ -274,32 +283,6 @@ Dr. Sophie Fabre
 &lt;p&gt;&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;We spent a nice meeting last tuesday with all members of DYNAFOR to celebrate the fifteenth anniversary of the laboratory. G. Balent, the lab&amp;rsquo;s founder (recently retired!), started the meeting with a presentation about the genesis of the group and the research questions associated at startup in 2003. M. Deconchat, our last director, made a quick review of our activities conducted for 15 years. We finished the morning meeting by a SWOT analysis (Strengths, Weaknesses, Opportunities and Threats) to prepare the next years. After lunch, an &amp;ldquo;agri-escape ecolo-game&amp;rdquo; was organized at the &lt;a href=&#34;https://www.facebook.com/lafermedumatet&#34; target=&#34;_blank&#34;&gt;Ferme du Matet&lt;/a&gt; by Lucie and Virgine (two past PhD students). Finally, the day ended at the village of St André with our local partners and farmers around our exhibition and drinks!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Back from ForestSAT&#39;2018, Univ. of Maryland, USA</title>
-      <link>https://dsheeren.github.io/post/forestsat2018/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://dsheeren.github.io/post/forestsat2018/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://forestsat2018.forestsat.com/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://forestsat2018.forestsat.com/wp-content/uploads/2018/03/logo-color-ctr-650b.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The &lt;a href=&#34;http://forestsat2018.forestsat.com/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;ForestSAT&amp;rsquo;2018 Conference&lt;/strong&gt;&lt;/a&gt; was organized by the University of Maryland and the NASA Goddar Space Flight Center at USA, Washington D.C. during 5 days (1-5 October 2018). Many of us from DYNAFOR, CESBIO and ONERA Toulouse were there. The program of the conference was really exciting with talks on all the subjects: large area mapping, forest structure and biomass, forest biodiversity assessment, forest composition and phenology, change detection and disturbances, forest in the global carbon cycle&amp;hellip; with optical time series, LiDAR, UAV, SAR data. It provided us a good overview of the current research works on this topic. It was also the opportunity to meet other scientists and present our lastest works.&lt;/p&gt;
-
-&lt;p&gt;Oral presentation:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Karasiak N., &lt;strong&gt;Sheeren&lt;/strong&gt; D., Dejoux J.F., Féret J.B., Willm J., Monteil C., Is ground-based phenology of deciduous tree species consistent with the temporal pattern observed from Sentinel-2 time series?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Posters:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Herrault P.-A., Thierion V. and &lt;strong&gt;Sheeren&lt;/strong&gt; D., Using the new French Land Cover Map (OSO) as spatial inputs in forest ecological modeling.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sheeren&lt;/strong&gt; D., Thierion V. and Herrault P.-A., Quality assessment of MODIS Vegetation Continuous Fields of Tree Cover over France.&lt;/li&gt;
-&lt;li&gt;Aval J., Fabre S., Zenou E., &lt;strong&gt;Sheeren&lt;/strong&gt; D., Fauvel M. and Briottet X., An ensemble classifier approach for urban tree species classification from ground-based spectral references.&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 20 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dsheeren.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Apports de la télédétection au calcul d’indicateurs agri-environnementaux au service de la PAC, des agriculteurs et porteurs d’enjeu</title>
+      <link>https://dsheeren.github.io/publication/bockstaller_ia_2021/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/bockstaller_ia_2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>From local to global: A transfer learning-based approach for mapping poplar plantations at national scale using Sentinel-2</title>
