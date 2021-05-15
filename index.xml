@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Spatial dependence between training and test sets: another pitfall of classification accuracy assessment in remote sensing</title>
+      <link>https://dsheeren.github.io/publication/karasiak_ml_2021/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/karasiak_ml_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Apports de la télédétection au calcul d’indicateurs agri-environnementaux au service de la PAC, des agriculteurs et porteurs d’enjeu</title>
       <link>https://dsheeren.github.io/publication/bockstaller_ia_2021/</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
@@ -254,35 +263,6 @@ Dr. Sophie Fabre
 &lt;p&gt;&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;Here is an excerpt of Sentinel-2 time series acquired over the year 2018 showing forest stands of conifer and deciduous species near Toulouse, France. If you watch the timelaps until the end, Red Oak will be unmasked&amp;hellip; Take a look at your forests with &lt;a href=&#34;https://www.sentinel-hub.com/&#34; target=&#34;_blank&#34;&gt;Sentinel-hub EO Browser&lt;/a&gt;!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>DYNAFOR is 15 years old!</title>
-      <link>https://dsheeren.github.io/post/dynaforbirthday/</link>
-      <pubDate>Thu, 29 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://dsheeren.github.io/post/dynaforbirthday/</guid>
-      <description>
-
-&lt;div class=&#34;gallery&#34;&gt;
-  
-  
-  
-  
-    
-      
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34;  href=&#34;https://dsheeren.github.io/img/posts/15ans_Dynafor.jpg&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://dsheeren.github.io/img/posts/15ans_Dynafor.jpg&#34;&gt;
-  &lt;/a&gt;
-  
-&lt;/div&gt;
-
-&lt;p&gt;&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;We spent a nice meeting last tuesday with all members of DYNAFOR to celebrate the fifteenth anniversary of the laboratory. G. Balent, the lab&amp;rsquo;s founder (recently retired!), started the meeting with a presentation about the genesis of the group and the research questions associated at startup in 2003. M. Deconchat, our last director, made a quick review of our activities conducted for 15 years. We finished the morning meeting by a SWOT analysis (Strengths, Weaknesses, Opportunities and Threats) to prepare the next years. After lunch, an &amp;ldquo;agri-escape ecolo-game&amp;rdquo; was organized at the &lt;a href=&#34;https://www.facebook.com/lafermedumatet&#34; target=&#34;_blank&#34;&gt;Ferme du Matet&lt;/a&gt; by Lucie and Virgine (two past PhD students). Finally, the day ended at the village of St André with our local partners and farmers around our exhibition and drinks!&lt;/p&gt;
 </description>
     </item>
     
