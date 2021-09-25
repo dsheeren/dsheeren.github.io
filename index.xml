@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Building a shared vision of the future for multifunctional agricultural landscapes. Lessons from a long term socio-ecological research site in south-western France</title>
+      <link>https://dsheeren.github.io/publication/ouin_aer_2021/</link>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/ouin_aer_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Optimising spatial distribution of mass-flowering patches at the landscape scale to increase crop pollination</title>
       <link>https://dsheeren.github.io/publication/desaegher_jae_2021/</link>
       <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
@@ -209,41 +218,6 @@ Dr. Sophie Fabre
       
       <guid>https://dsheeren.github.io/publication/lefevre_ijgi_2019/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>7th French Hyperspectral Remote Sensing Symposium (SFPT-GH)</title>
-      <link>https://dsheeren.github.io/post/call_sfpt_gh/</link>
-      <pubDate>Sun, 27 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://dsheeren.github.io/post/call_sfpt_gh/</guid>
-      <description>
-
-&lt;div class=&#34;gallery&#34;&gt;
-  
-  
-  
-  
-    
-      
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34;  href=&#34;https://dsheeren.github.io/img/posts/flyer_sfpt_gh.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://dsheeren.github.io/img/posts/flyer_sfpt_gh.png&#34;&gt;
-  &lt;/a&gt;
-  
-&lt;/div&gt;
-
-&lt;p&gt;&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;The next &lt;strong&gt;SFPT-GH symposium&lt;/strong&gt; on hyperspectral imagery will be held on 9-10 July 2019 in Toulouse. This conference is organized by ONERA/DOTA, IRIT/ENSEEIHT, DYNAFOR/ENSAT and INRA. The aim of this symposium is to bring together all the french scientists involved in hyperspectral image processing on various application domains: geology, planetology, vegetation, atmosphere, coast and urban areas.&lt;/p&gt;
-
-&lt;p&gt;The deadline for abstract submission is &lt;strong&gt;March 11, 2019&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;We will have the pleasure to invite &lt;a href=&#34;https://www.lx.it.pt/~jun/&#34; target=&#34;_blank&#34;&gt;Professor Jun Li&lt;/a&gt; from the Sun Yat-Sen University, School of Geography and Planning (China) as a keynote speaker for a presentation about &lt;strong&gt;&amp;ldquo;Recent Advances in Spectral-Spatial Hyperspectral Image Classfication&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;All the details are available on the website: &lt;a href=&#34;https://sfpt-gh2019.onera.fr/&#34; target=&#34;_blank&#34;&gt;https://sfpt-gh2019.onera.fr/&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>
