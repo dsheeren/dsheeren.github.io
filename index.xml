@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Sentinel-2 Poplar Index for Operational Mapping of Poplar Plantations over Large Areas</title>
+      <link>https://dsheeren.github.io/publication/hamrouni_rs_2022/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/hamrouni_rs_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>How far is enough? Prediction of the scale of effect for wild bees</title>
       <link>https://dsheeren.github.io/publication/desaegher_ecography_2022/</link>
       <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
@@ -115,10 +124,10 @@
     
     <item>
       <title>Spatial dependence between training and test sets: another pitfall of classification accuracy assessment in remote sensing</title>
-      <link>https://dsheeren.github.io/publication/karasiak_ml_2021/</link>
+      <link>https://dsheeren.github.io/publication/karasiak_ml_2022/</link>
       <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dsheeren.github.io/publication/karasiak_ml_2021/</guid>
+      <guid>https://dsheeren.github.io/publication/karasiak_ml_2022/</guid>
       <description></description>
     </item>
     
@@ -223,15 +232,6 @@ Dr. Sophie Fabre
 
 &lt;p&gt;More details on &lt;a href=&#34;https://www.mdpi.com/journal/remotesensing/special_issues/biodiversity_mapping_monitoring&#34; target=&#34;_blank&#34;&gt;MDPI &lt;em&gt;Remote Sensing&lt;/em&gt; Journal website&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Statistical Stability and Spatial Instability in Mapping Forest Tree Species by Comparing 9 Years of Satellite Image Time Series</title>
-      <link>https://dsheeren.github.io/publication/karasiak_rs_2019/</link>
-      <pubDate>Sat, 26 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dsheeren.github.io/publication/karasiak_rs_2019/</guid>
-      <description></description>
     </item>
     
   </channel>
