@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A new method for quantifying treeline-ecotone change based on multiple spatial pattern dimensions</title>
+      <link>https://dsheeren.github.io/publication/birre_le_2023/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/birre_le_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sentinel-2 Poplar Index for Operational Mapping of Poplar Plantations over Large Areas</title>
       <link>https://dsheeren.github.io/publication/hamrouni_rs_2022/</link>
       <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
@@ -177,61 +186,6 @@
       
       <guid>https://dsheeren.github.io/publication/poterek_jstars_2020/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Call for papers - Special Issue in Remote Sensing Journal</title>
-      <link>https://dsheeren.github.io/post/call_si_rs_2020/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://dsheeren.github.io/post/call_si_rs_2020/</guid>
-      <description>
-
-&lt;div class=&#34;gallery&#34;&gt;
-  
-  
-  
-  
-    
-      
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34;  href=&#34;https://dsheeren.github.io/img/posts/biodiversity_mapping_monitoring_horizontal_dark-banner%201.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://dsheeren.github.io/img/posts/biodiversity_mapping_monitoring_horizontal_dark-banner%201.png&#34;&gt;
-  &lt;/a&gt;
-  
-&lt;/div&gt;
-
-&lt;p&gt;&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Dear Colleagues,&lt;/p&gt;
-
-&lt;p&gt;This Special Issue &lt;strong&gt;Remote Sensing for Biodiversity Mapping and Monitoring&lt;/strong&gt; aims to publish original research that specifically addresses various aspects of biodiversity mapping and monitoring over space and time using remote sensing from local to global scales. We invite a wide range of contributions from methodological to applied and multidisciplinary research about the following (non-exclusive) topics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Taxonomic, structural, and functional diversity mapping from RS data;&lt;/li&gt;
-&lt;li&gt;Species distribution modeling based on RS data;&lt;/li&gt;
-&lt;li&gt;Retrieving biophysical and biochemical variables from RS data and radiative transfer models;&lt;/li&gt;
-&lt;li&gt;Assessing and predicting ecosystem services from RS data;&lt;/li&gt;
-&lt;li&gt;Ecosystems health monitoring from RS data;&lt;/li&gt;
-&lt;li&gt;Reconstructing ecosystem trajectories over time from RS data;&lt;/li&gt;
-&lt;li&gt;Advanced machine learning techniques (deep learning, transfer learning, active learning) for biodiversity mapping based on RS data;&lt;/li&gt;
-&lt;li&gt;Fusion of multimodal images (optical/thermal/radar/lidar) to improve biodiversity mapping and monitoring.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Reviews covering one or more topics are welcome.
-We encourage the authors to make their sample data and computational tools publicly available through online resources to ensure the reproducibility and transparency of all the experiments.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Deadline&lt;/strong&gt; for manuscript submissions: 30 November 2020&lt;/p&gt;
-
-&lt;p&gt;Dr. David Sheeren
-Dr. Jean-Baptiste Féret
-Dr. Laurence Hubert-Moy
-Dr. Sophie Fabre
-(Guest Editors)&lt;/p&gt;
-
-&lt;p&gt;More details on &lt;a href=&#34;https://www.mdpi.com/journal/remotesensing/special_issues/biodiversity_mapping_monitoring&#34; target=&#34;_blank&#34;&gt;MDPI &lt;em&gt;Remote Sensing&lt;/em&gt; Journal website&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

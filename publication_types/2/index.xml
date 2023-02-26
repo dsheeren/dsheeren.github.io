@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 16 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dsheeren.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A new method for quantifying treeline-ecotone change based on multiple spatial pattern dimensions</title>
+      <link>https://dsheeren.github.io/publication/birre_le_2023/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/birre_le_2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sentinel-2 Poplar Index for Operational Mapping of Poplar Plantations over Large Areas</title>
