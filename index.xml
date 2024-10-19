@@ -11,6 +11,42 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Submonthly Assessment of Temperate Forest Clear-Cuts in Mainland France</title>
+      <link>https://dsheeren.github.io/publication/mermoz_jstars_2024/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/mermoz_jstars_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-to-end simulations to optimize imaging spectroscopy mission requirements for seven scientific applications</title>
+      <link>https://dsheeren.github.io/publication/briottet_oisprs_2024/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/briottet_oisprs_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new method for quantifying treeline-ecotone change based on multiple spatial pattern dimensions</title>
+      <link>https://dsheeren.github.io/publication/birre_le_2023/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/birre_le_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BIODIVERSITY: Une nouvelle mission spatiale pour le suivi des écosystèmes à une échelle fine</title>
+      <link>https://dsheeren.github.io/publication/briottet_rfpt_2022/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/briottet_rfpt_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sentinel-2 Poplar Index for Operational Mapping of Poplar Plantations over Large Areas</title>
       <link>https://dsheeren.github.io/publication/hamrouni_rs_2022/</link>
       <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
@@ -147,91 +183,6 @@
       
       <guid>https://dsheeren.github.io/publication/hamrouni_isprs_2021/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>IGARSS&#39;2021 Symposium in Brussels!</title>
-      <link>https://dsheeren.github.io/post/igarss2021/</link>
-      <pubDate>Sun, 20 Sep 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://dsheeren.github.io/post/igarss2021/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.igarss2021.com/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://www.igarss2021.com/images/IG21_Logo_Pill.svg&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Save the date!&lt;/strong&gt; The next IEEE International Geoscience and Remote Sensing Symposium &lt;a href=&#34;https://www.igarss2021.com/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;IGARSS&amp;rsquo;2021&lt;/strong&gt;&lt;/a&gt; will be in Brussels (Belgium) from the 11th of July to the 16th. The symposium is organized by Belgium (UCL, VUB, U Ghent) and Dutch Universities (TU Delft, Univ. Twente, WUR) with BELSPO, VITO and RMA. A great opportunity to go back at home ;-)!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Submerged macrophyte assessment in rivers: An automatic mapping method using Pléiades imagery</title>
-      <link>https://dsheeren.github.io/publication/espel_water_2020/</link>
-      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://dsheeren.github.io/publication/espel_water_2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning for Automatic Colorization of Legacy Grayscale Aerial Photographs</title>
-      <link>https://dsheeren.github.io/publication/poterek_jstars_2020/</link>
-      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://dsheeren.github.io/publication/poterek_jstars_2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Call for papers - Special Issue in Remote Sensing Journal</title>
-      <link>https://dsheeren.github.io/post/call_si_rs_2020/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://dsheeren.github.io/post/call_si_rs_2020/</guid>
-      <description>
-
-&lt;div class=&#34;gallery&#34;&gt;
-  
-  
-  
-  
-    
-      
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34;  href=&#34;https://dsheeren.github.io/img/posts/biodiversity_mapping_monitoring_horizontal_dark-banner%201.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://dsheeren.github.io/img/posts/biodiversity_mapping_monitoring_horizontal_dark-banner%201.png&#34;&gt;
-  &lt;/a&gt;
-  
-&lt;/div&gt;
-
-&lt;p&gt;&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Dear Colleagues,&lt;/p&gt;
-
-&lt;p&gt;This Special Issue &lt;strong&gt;Remote Sensing for Biodiversity Mapping and Monitoring&lt;/strong&gt; aims to publish original research that specifically addresses various aspects of biodiversity mapping and monitoring over space and time using remote sensing from local to global scales. We invite a wide range of contributions from methodological to applied and multidisciplinary research about the following (non-exclusive) topics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Taxonomic, structural, and functional diversity mapping from RS data;&lt;/li&gt;
-&lt;li&gt;Species distribution modeling based on RS data;&lt;/li&gt;
-&lt;li&gt;Retrieving biophysical and biochemical variables from RS data and radiative transfer models;&lt;/li&gt;
-&lt;li&gt;Assessing and predicting ecosystem services from RS data;&lt;/li&gt;
-&lt;li&gt;Ecosystems health monitoring from RS data;&lt;/li&gt;
-&lt;li&gt;Reconstructing ecosystem trajectories over time from RS data;&lt;/li&gt;
-&lt;li&gt;Advanced machine learning techniques (deep learning, transfer learning, active learning) for biodiversity mapping based on RS data;&lt;/li&gt;
-&lt;li&gt;Fusion of multimodal images (optical/thermal/radar/lidar) to improve biodiversity mapping and monitoring.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Reviews covering one or more topics are welcome.
-We encourage the authors to make their sample data and computational tools publicly available through online resources to ensure the reproducibility and transparency of all the experiments.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Deadline&lt;/strong&gt; for manuscript submissions: 30 November 2020&lt;/p&gt;
-
-&lt;p&gt;Dr. David Sheeren
-Dr. Jean-Baptiste Féret
-Dr. Laurence Hubert-Moy
-Dr. Sophie Fabre
-(Guest Editors)&lt;/p&gt;
-
-&lt;p&gt;More details on &lt;a href=&#34;https://www.mdpi.com/journal/remotesensing/special_issues/biodiversity_mapping_monitoring&#34; target=&#34;_blank&#34;&gt;MDPI &lt;em&gt;Remote Sensing&lt;/em&gt; Journal website&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
