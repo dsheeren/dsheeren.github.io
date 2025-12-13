@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Habitat quality assessment of temperate forest ecosystems: an airborne LiDAR-based approach to predict the Index of Biodiversity Potential (IBP) at large scale</title>
+      <link>https://dsheeren.github.io/publication/collard_fem_2026/</link>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/collard_fem_2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SilviLaser&#39;2025 Conference in Québec City!</title>
       <link>https://dsheeren.github.io/post/silvilaser2025/</link>
       <pubDate>Sun, 14 Sep 2025 00:00:00 +0200</pubDate>
@@ -193,15 +202,6 @@
       <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://dsheeren.github.io/publication/desaegher_jae_2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatial dependence between training and test sets: another pitfall of classification accuracy assessment in remote sensing</title>
-      <link>https://dsheeren.github.io/publication/karasiak_ml_2022/</link>
-      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dsheeren.github.io/publication/karasiak_ml_2022/</guid>
       <description></description>
     </item>
     
