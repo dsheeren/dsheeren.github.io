@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 06 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dsheeren.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A review of the index of biodiversity potential (IBP) as a tool for biodiversity evaluation in forest ecosystems</title>
+      <link>https://dsheeren.github.io/publication/larrieu_ejfr_2026/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsheeren.github.io/publication/larrieu_ejfr_2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Habitat quality assessment of temperate forest ecosystems: an airborne LiDAR-based approach to predict the Index of Biodiversity Potential (IBP) at large scale</title>
